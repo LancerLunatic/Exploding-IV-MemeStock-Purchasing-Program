@@ -1,0 +1,1 @@
+I wanted to automate my manual options and stock trading strategy that I've been using for a couple years so I can free up my time and ensure that something will always follow my trading rules because I have trouble following my own guidelines. 
