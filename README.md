@@ -1,8 +1,17 @@
 # High IV Momentum Trading Strategy
+I created this to showcase my capabilities as a full cycle quantitative developer and trader. I am open to quant trader/quant dev/quant analyst roles with hybrid in-office style in Washington, DC, NYC and surrounding areas. I have been trading manually all asset classes starting with stocks in 2011.
+I like they concept of algorithmic trading because I know my trade plan/rules will always be followed where as a human can deviate due to ego.
 
-I wanted to automate my manual options and stock trading strategy that I've been using for a couple years so I can free up my time and ensure that something will always follow my trading rules because I have trouble following my own guidelines. 
+About me :([linkedin](https://www.linkedin.com/in/marylandman/))
 
-## Key Metrics
+Technical Stack:
+- Full cycle trade developer
+- Live Equity/Index/Future option chains
+- DTE/volume filtering + sentiment analysis
+- VIX regime detection + position sizing
+- QuantConnect LEAN engine integration
+
+ ## Key Metrics
 **Entry Signal**: ATM calls with 7-39 DTE, IV increase > 1.5%
 
 **Filters**: 0.5M+ daily volume, Call/Put ratio ≥ 1.10 (sentiment filter)
@@ -95,18 +104,3 @@ Once a trade is open, it is managed continuously in `OnData`:
 - **Daily Loss Limit:** If the entire portfolio drops by 5% in a single day, it liquidates all positions and halts trading for the day.
 
 **Status**: ✅ Live [Paper] trading December 2025 | Almost ready for production | Major Issue : IV data not received by definition for trading
-
-About me :([linkedin](https://www.linkedin.com/in/marylandman/))
-0 join MLH Finance track || HackerRank competitions
-
-Designed and deployed High IV Momentum strategy trading 30+ equities.
-
-Technical Stack:
-- Full cycle trade developer
-- Live Equity/Index/Future option chains
-- DTE/volume filtering + sentiment analysis
-- VIX regime detection + position sizing
-- QuantConnect LEAN engine integration
-
-Currently: Seeking Quant Developer or Algorithmic Trader role with hybrid Office work style 
-
