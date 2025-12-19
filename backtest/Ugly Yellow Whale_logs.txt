@@ -1,0 +1,1357 @@
+Launching analysis for 56634e093468b8c853d3fe8ddb629a54 with LEAN Engine v2.5.0.0.17411
+2022-11-08 00:00:00 Algorithm starting warm up...
+2022-11-08 00:00:00 UNIVERSE: Passed price filter: 8457
+2022-11-08 00:00:00 UNIVERSE: Passed volume filter (>500k): 2981
+2022-11-08 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-11-08 00:00:00 UNIVERSE: Passed price filter: 8375
+2022-11-08 00:00:00 UNIVERSE: Passed volume filter (>500k): 3018
+2022-11-08 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-11-08 00:00:00 UNIVERSE: Passed price filter: 8408
+2022-11-08 00:00:00 UNIVERSE: Passed volume filter (>500k): 2936
+2022-11-08 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-11-08 00:00:00 UNIVERSE: Passed price filter: 8453
+2022-11-08 00:00:00 UNIVERSE: Passed volume filter (>500k): 3236
+2022-11-08 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-11-08 00:00:00 UNIVERSE: Passed price filter: 8410
+2022-11-08 00:00:00 UNIVERSE: Passed volume filter (>500k): 3111
+2022-11-08 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-11-08 00:00:00 UNIVERSE: Passed price filter: 8478
+2022-11-08 00:00:00 UNIVERSE: Passed volume filter (>500k): 3037
+2022-11-08 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-11-10 00:00:00 Warning: The following securities were set to raw price normalization mode to work with options: JPM, EEM, D...
+2022-11-10 00:00:00 Processing algorithm warm-up request 28%...
+2022-11-11 00:00:00 UNIVERSE: Passed price filter: 8464
+2022-11-11 00:00:00 UNIVERSE: Passed volume filter (>500k): 3089
+2022-11-11 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-11-11 00:00:00 UNIVERSE: Passed price filter: 8448
+2022-11-11 00:00:00 UNIVERSE: Passed volume filter (>500k): 2900
+2022-11-11 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-11-11 00:00:00 UNIVERSE: Passed price filter: 8435
+2022-11-11 00:00:00 UNIVERSE: Passed volume filter (>500k): 2853
+2022-11-11 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-11-11 00:00:00 UNIVERSE: Passed price filter: 8425
+2022-11-11 00:00:00 UNIVERSE: Passed volume filter (>500k): 2842
+2022-11-11 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-11-11 00:00:00 UNIVERSE: Passed price filter: 8431
+2022-11-11 00:00:00 UNIVERSE: Passed volume filter (>500k): 2799
+2022-11-11 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-11-11 00:00:00 UNIVERSE: Passed price filter: 8437
+2022-11-11 00:00:00 UNIVERSE: Passed volume filter (>500k): 2772
+2022-11-11 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-11-12 00:00:00 Processing algorithm warm-up request 57%...
+2022-11-15 00:00:00 Algorithm finished warming up.
+2022-11-15 10:00:00 Warmup finished. Performing initial ETF rebalancing.
+2022-11-15 10:00:00 FILLED SPY 198.0 @ $401.62
+2022-11-15 10:00:00 FILLED XLU 291.0 @ $68.46
+2022-11-18 00:00:00 UNIVERSE: Passed price filter: 8402
+2022-11-18 00:00:00 UNIVERSE: Passed volume filter (>500k): 2623
+2022-11-18 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-11-18 00:00:00 UNIVERSE: Passed price filter: 8317
+2022-11-18 00:00:00 UNIVERSE: Passed volume filter (>500k): 1906
+2022-11-18 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-11-18 00:00:00 UNIVERSE: Passed price filter: 8402
+2022-11-18 00:00:00 UNIVERSE: Passed volume filter (>500k): 2769
+2022-11-18 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-11-18 00:00:00 UNIVERSE: Passed price filter: 8382
+2022-11-18 00:00:00 UNIVERSE: Passed volume filter (>500k): 2736
+2022-11-18 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-11-18 00:00:00 UNIVERSE: Passed price filter: 8446
+2022-11-18 00:00:00 UNIVERSE: Passed volume filter (>500k): 3211
+2022-11-18 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-11-18 00:00:00 UNIVERSE: Passed price filter: 8471
+2022-11-18 00:00:00 UNIVERSE: Passed volume filter (>500k): 2968
+2022-11-18 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-11-21 10:00:00 VIX=23.13 | Regime: BEAR
+2022-11-21 10:00:00 Market regime is BEAR. Pausing new trades.
+2022-11-21 11:00:00 VIX=23.13 | Regime: BEAR
+2022-11-21 11:00:00 Market regime is BEAR. Pausing new trades.
+2022-11-21 12:00:00 VIX=23.13 | Regime: BEAR
+2022-11-21 12:00:00 Market regime is BEAR. Pausing new trades.
+2022-11-21 13:00:00 VIX=23.13 | Regime: BEAR
+2022-11-21 13:00:00 Market regime is BEAR. Pausing new trades.
+2022-11-21 14:00:00 VIX=23.13 | Regime: BEAR
+2022-11-21 14:00:00 Market regime is BEAR. Pausing new trades.
+2022-11-21 15:00:00 VIX=23.13 | Regime: BEAR
+2022-11-21 15:00:00 Market regime is BEAR. Pausing new trades.
+2022-11-21 16:00:00 VIX=23.13 | Regime: BEAR
+2022-11-21 16:00:00 Market regime is BEAR. Pausing new trades.
+2022-11-21 16:15:00 VIX=22.36 | Regime: BEAR
+2022-11-21 16:15:00 Market regime is BEAR. Pausing new trades.
+2022-11-28 10:00:00 VIX=20.50 | Regime: BULL
+2022-11-28 10:00:00 SCREENING: Found 30 stocks with a ready IV indicator.
+2022-11-28 10:00:00 Initial screening run: Selecting stocks based on highest absolute IV.
+2022-11-28 10:00:00 SCREENING: 16 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2022-11-28 10:00:00 Ranking candidates by absolute IV.
+2022-11-28 10:00:00 [BUY] MANU: Current allocation 99.45%. Adding new 2% position.
+2022-11-28 10:00:00 [BUY] SQQQ: Current allocation 101.44%. Adding new 2% position.
+2022-11-28 10:00:00 [BUY] TQQQ: Current allocation 103.43%. Adding new 2% position.
+2022-11-28 10:00:00 [BUY] BABA: Current allocation 105.41%. Adding new 2% position.
+2022-11-28 10:00:00 [BUY] NFLX: Current allocation 107.39%. Adding new 2% position.
+2022-11-28 10:00:00 [BUY] AMZN: Current allocation 109.12%. Adding new 2% position.
+2022-11-28 10:00:00 [BUY] META: Current allocation 111.11%. Adding new 2% position.
+2022-11-28 10:00:00 [BUY] BA: Current allocation 113.10%. Adding new 2% position.
+2022-11-28 10:00:00 [BUY] DIS: Current allocation 115.03%. Adding new 2% position.
+2022-11-28 10:00:00 [BUY] GOOG: Current allocation 116.99%. Adding new 2% position.
+2022-11-28 10:00:00 [BUY] MSFT: Current allocation 118.93%. Adding new 2% position.
+2022-11-28 10:00:00 [BUY] QQQ: Current allocation 120.89%. Adding new 2% position.
+2022-11-28 10:00:00 [BUY] BAC: Current allocation 122.60%. Adding new 2% position.
+2022-11-28 10:00:00 [BUY] TLT: Current allocation 124.57%. Adding new 2% position.
+2022-11-28 10:00:00 [BUY] EEM: Current allocation 126.54%. Adding new 2% position.
+2022-11-28 11:00:00 VIX=20.50 | Regime: BULL
+2022-11-28 11:00:00 SCREENING: Found 30 stocks with a ready IV indicator.
+2022-11-28 11:00:00 IV_CHANGE: AMZN: Current IV 0.4323 - Previous IV 0.4302 = Increase 0.0022
+2022-11-28 11:00:00 IV_CHANGE: BAC: Current IV 0.2336 - Previous IV 0.2302 = Increase 0.0035
+2022-11-28 11:00:00 IV_CHANGE: EEM: Current IV 0.1823 - Previous IV 0.1823 = Increase 0.0000
+2022-11-28 11:00:00 IV_CHANGE: GOOG: Current IV 0.3272 - Previous IV 0.3210 = Increase 0.0062
+2022-11-28 11:00:00 IV_CHANGE: GOOGL: Current IV 0.3270 - Previous IV 0.3223 = Increase 0.0048
+2022-11-28 11:00:00 IV_CHANGE: HD: Current IV 0.2514 - Previous IV 0.2483 = Increase 0.0031
+2022-11-28 11:00:00 IV_CHANGE: HYG: Current IV 0.0833 - Previous IV 0.0829 = Increase 0.0003
+2022-11-28 11:00:00 IV_CHANGE: MSFT: Current IV 0.2862 - Previous IV 0.2803 = Increase 0.0059
+2022-11-28 11:00:00 IV_CHANGE: TQQQ: Current IV 0.8008 - Previous IV 0.7953 = Increase 0.0055
+2022-11-28 11:00:00 IV_CHANGE: TSLA: Current IV 0.6093 - Previous IV 0.6078 = Increase 0.0015
+2022-11-28 11:00:00 IV_CHANGE: BRK.B: Current IV 0.1847 - Previous IV 0.1794 = Increase 0.0052
+2022-11-28 11:00:00 SCREENING: Found 11 stocks with an IV increase since last screening.
+2022-11-28 11:00:00 SCREENING: 8 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2022-11-28 11:00:00 Ranking candidates by IV increase.
+2022-11-28 11:00:00 [BUY] BRK.B: Current allocation 128.63%. Adding new 2% position.
+2022-11-28 11:00:00 [BUY] GOOGL: Current allocation 130.53%. Adding new 2% position.
+2022-11-28 11:00:00 [BUY] HYG: Current allocation 132.46%. Adding new 2% position.
+2022-11-28 12:00:00 VIX=20.50 | Regime: BULL
+2022-11-28 12:00:00 SCREENING: Found 30 stocks with a ready IV indicator.
+2022-11-28 12:00:00 IV_CHANGE: DIS: Current IV 0.3352 - Previous IV 0.3322 = Increase 0.0029
+2022-11-28 12:00:00 IV_CHANGE: EFA: Current IV 0.1565 - Previous IV 0.1557 = Increase 0.0008
+2022-11-28 12:00:00 IV_CHANGE: HYG: Current IV 0.0856 - Previous IV 0.0833 = Increase 0.0023
+2022-11-28 12:00:00 IV_CHANGE: SQQQ: Current IV 0.7984 - Previous IV 0.7965 = Increase 0.0019
+2022-11-28 12:00:00 IV_CHANGE: TLT: Current IV 0.1849 - Previous IV 0.1847 = Increase 0.0002
+2022-11-28 12:00:00 IV_CHANGE: MANU: Current IV 0.8861 - Previous IV 0.8763 = Increase 0.0098
+2022-11-28 12:00:00 SCREENING: Found 6 stocks with an IV increase since last screening.
+2022-11-28 12:00:00 SCREENING: 3 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2022-11-28 12:00:00 Ranking candidates by IV increase.
+2022-11-28 13:00:00 VIX=20.50 | Regime: BULL
+2022-11-28 13:00:00 SCREENING: Found 30 stocks with a ready IV indicator.
+2022-11-28 13:00:00 IV_CHANGE: AAPL: Current IV 0.3140 - Previous IV 0.3137 = Increase 0.0003
+2022-11-28 13:00:00 IV_CHANGE: AMD: Current IV 0.4938 - Previous IV 0.4919 = Increase 0.0020
+2022-11-28 13:00:00 IV_CHANGE: AMZN: Current IV 0.4270 - Previous IV 0.4251 = Increase 0.0019
+2022-11-28 13:00:00 IV_CHANGE: BAC: Current IV 0.2355 - Previous IV 0.2327 = Increase 0.0029
+2022-11-28 13:00:00 IV_CHANGE: DIS: Current IV 0.3361 - Previous IV 0.3352 = Increase 0.0010
+2022-11-28 13:00:00 IV_CHANGE: EEM: Current IV 0.1873 - Previous IV 0.1809 = Increase 0.0064
+2022-11-28 13:00:00 IV_CHANGE: EFA: Current IV 0.1599 - Previous IV 0.1565 = Increase 0.0033
+2022-11-28 13:00:00 IV_CHANGE: GOOG: Current IV 0.3199 - Previous IV 0.3197 = Increase 0.0002
+2022-11-28 13:00:00 IV_CHANGE: IWM: Current IV 0.2280 - Previous IV 0.2250 = Increase 0.0030
+2022-11-28 13:00:00 IV_CHANGE: MSFT: Current IV 0.2862 - Previous IV 0.2823 = Increase 0.0039
+2022-11-28 13:00:00 IV_CHANGE: NFLX: Current IV 0.4420 - Previous IV 0.4386 = Increase 0.0035
+2022-11-28 13:00:00 IV_CHANGE: QQQ: Current IV 0.2678 - Previous IV 0.2668 = Increase 0.0010
+2022-11-28 13:00:00 IV_CHANGE: SQQQ: Current IV 0.8001 - Previous IV 0.7984 = Increase 0.0017
+2022-11-28 13:00:00 IV_CHANGE: TLT: Current IV 0.1869 - Previous IV 0.1849 = Increase 0.0020
+2022-11-28 13:00:00 IV_CHANGE: TQQQ: Current IV 0.7975 - Previous IV 0.7812 = Increase 0.0163
+2022-11-28 13:00:00 IV_CHANGE: XLE: Current IV 0.3285 - Previous IV 0.3274 = Increase 0.0011
+2022-11-28 13:00:00 IV_CHANGE: XOM: Current IV 0.2932 - Previous IV 0.2912 = Increase 0.0020
+2022-11-28 13:00:00 IV_CHANGE: BA: Current IV 0.3799 - Previous IV 0.3703 = Increase 0.0096
+2022-11-28 13:00:00 IV_CHANGE: BRK.B: Current IV 0.1847 - Previous IV 0.1845 = Increase 0.0001
+2022-11-28 13:00:00 IV_CHANGE: MANU: Current IV 0.8905 - Previous IV 0.8861 = Increase 0.0044
+2022-11-28 13:00:00 SCREENING: Found 20 stocks with an IV increase since last screening.
+2022-11-28 13:00:00 SCREENING: 13 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2022-11-28 13:00:00 Ranking candidates by IV increase.
+2022-11-28 13:00:00 [BUY] IWM: Current allocation 134.49%. Adding new 2% position.
+2022-11-28 13:00:00 [BUY] XOM: Current allocation 136.33%. Adding new 2% position.
+2022-11-28 13:00:00 [BUY] AMD: Current allocation 138.23%. Adding new 2% position.
+2022-11-28 14:00:00 VIX=20.50 | Regime: BULL
+2022-11-28 14:00:00 SCREENING: Found 30 stocks with a ready IV indicator.
+2022-11-28 14:00:00 IV_CHANGE: AAPL: Current IV 0.3218 - Previous IV 0.3140 = Increase 0.0079
+2022-11-28 14:00:00 IV_CHANGE: AMD: Current IV 0.4960 - Previous IV 0.4938 = Increase 0.0022
+2022-11-28 14:00:00 IV_CHANGE: AMZN: Current IV 0.4275 - Previous IV 0.4270 = Increase 0.0006
+2022-11-28 14:00:00 IV_CHANGE: BABA: Current IV 0.5780 - Previous IV 0.5766 = Increase 0.0014
+2022-11-28 14:00:00 IV_CHANGE: EFA: Current IV 0.1623 - Previous IV 0.1599 = Increase 0.0025
+2022-11-28 14:00:00 IV_CHANGE: GOOG: Current IV 0.3239 - Previous IV 0.3199 = Increase 0.0040
+2022-11-28 14:00:00 IV_CHANGE: GOOGL: Current IV 0.3240 - Previous IV 0.3225 = Increase 0.0015
+2022-11-28 14:00:00 IV_CHANGE: HD: Current IV 0.2546 - Previous IV 0.2458 = Increase 0.0088
+2022-11-28 14:00:00 IV_CHANGE: META: Current IV 0.4229 - Previous IV 0.4216 = Increase 0.0013
+2022-11-28 14:00:00 IV_CHANGE: MSFT: Current IV 0.2881 - Previous IV 0.2862 = Increase 0.0019
+2022-11-28 14:00:00 IV_CHANGE: NVDA: Current IV 0.4917 - Previous IV 0.4912 = Increase 0.0005
+2022-11-28 14:00:00 IV_CHANGE: QQQ: Current IV 0.2706 - Previous IV 0.2678 = Increase 0.0028
+2022-11-28 14:00:00 IV_CHANGE: SQQQ: Current IV 0.8057 - Previous IV 0.8001 = Increase 0.0056
+2022-11-28 14:00:00 IV_CHANGE: TSLA: Current IV 0.6041 - Previous IV 0.5999 = Increase 0.0043
+2022-11-28 14:00:00 IV_CHANGE: XLE: Current IV 0.3318 - Previous IV 0.3285 = Increase 0.0033
+2022-11-28 14:00:00 IV_CHANGE: XOM: Current IV 0.2949 - Previous IV 0.2932 = Increase 0.0017
+2022-11-28 14:00:00 IV_CHANGE: EWZ: Current IV 0.3587 - Previous IV 0.3552 = Increase 0.0035
+2022-11-28 14:00:00 IV_CHANGE: ATVI: Current IV 0.2358 - Previous IV 0.2321 = Increase 0.0037
+2022-11-28 14:00:00 IV_CHANGE: BRK.B: Current IV 0.1856 - Previous IV 0.1847 = Increase 0.0009
+2022-11-28 14:00:00 IV_CHANGE: GDX: Current IV 0.3773 - Previous IV 0.3773 = Increase 0.0001
+2022-11-28 14:00:00 SCREENING: Found 20 stocks with an IV increase since last screening.
+2022-11-28 14:00:00 SCREENING: 12 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2022-11-28 14:00:00 Ranking candidates by IV increase.
+2022-11-28 14:00:00 [BUY] HD: Current allocation 140.36%. Adding new 2% position.
+2022-11-28 14:00:00 [BUY] AAPL: Current allocation 142.30%. Adding new 2% position.
+2022-11-28 14:00:00 [BUY] ATVI: Current allocation 144.19%. Adding new 2% position.
+2022-11-28 15:00:00 VIX=20.50 | Regime: BULL
+2022-11-28 15:00:00 SCREENING: Found 30 stocks with a ready IV indicator.
+2022-11-28 15:00:00 IV_CHANGE: AMD: Current IV 0.4964 - Previous IV 0.4960 = Increase 0.0004
+2022-11-28 15:00:00 IV_CHANGE: AMZN: Current IV 0.4277 - Previous IV 0.4275 = Increase 0.0001
+2022-11-28 15:00:00 IV_CHANGE: BAC: Current IV 0.2377 - Previous IV 0.2352 = Increase 0.0025
+2022-11-28 15:00:00 IV_CHANGE: EEM: Current IV 0.1854 - Previous IV 0.1832 = Increase 0.0022
+2022-11-28 15:00:00 IV_CHANGE: EFA: Current IV 0.1642 - Previous IV 0.1623 = Increase 0.0018
+2022-11-28 15:00:00 IV_CHANGE: GOOG: Current IV 0.3261 - Previous IV 0.3239 = Increase 0.0023
+2022-11-28 15:00:00 IV_CHANGE: HYG: Current IV 0.0888 - Previous IV 0.0835 = Increase 0.0053
+2022-11-28 15:00:00 IV_CHANGE: IWM: Current IV 0.2306 - Previous IV 0.2278 = Increase 0.0027
+2022-11-28 15:00:00 IV_CHANGE: MSFT: Current IV 0.2912 - Previous IV 0.2881 = Increase 0.0030
+2022-11-28 15:00:00 IV_CHANGE: QQQ: Current IV 0.2715 - Previous IV 0.2706 = Increase 0.0009
+2022-11-28 15:00:00 IV_CHANGE: SQQQ: Current IV 0.8178 - Previous IV 0.8057 = Increase 0.0121
+2022-11-28 15:00:00 IV_CHANGE: TQQQ: Current IV 0.7955 - Previous IV 0.7930 = Increase 0.0024
+2022-11-28 15:00:00 IV_CHANGE: TSLA: Current IV 0.6043 - Previous IV 0.6041 = Increase 0.0002
+2022-11-28 15:00:00 IV_CHANGE: XOM: Current IV 0.2965 - Previous IV 0.2949 = Increase 0.0016
+2022-11-28 15:00:00 IV_CHANGE: ATVI: Current IV 0.2407 - Previous IV 0.2358 = Increase 0.0049
+2022-11-28 15:00:00 IV_CHANGE: BA: Current IV 0.3768 - Previous IV 0.3743 = Increase 0.0025
+2022-11-28 15:00:00 IV_CHANGE: GDX: Current IV 0.3779 - Previous IV 0.3773 = Increase 0.0006
+2022-11-28 15:00:00 IV_CHANGE: MANU: Current IV 0.9028 - Previous IV 0.8819 = Increase 0.0209
+2022-11-28 15:00:00 SCREENING: Found 18 stocks with an IV increase since last screening.
+2022-11-28 15:00:00 SCREENING: 11 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2022-11-28 15:00:00 Ranking candidates by IV increase.
+2022-11-28 15:00:00 [BUY] TSLA: Current allocation 146.24%. Adding new 2% position.
+2022-11-28 16:00:00 VIX=20.50 | Regime: BULL
+2022-11-28 16:00:00 SCREENING: Found 30 stocks with a ready IV indicator.
+2022-11-28 16:00:00 IV_CHANGE: AAPL: Current IV 0.3209 - Previous IV 0.3208 = Increase 0.0001
+2022-11-28 16:00:00 IV_CHANGE: AMD: Current IV 0.5003 - Previous IV 0.4964 = Increase 0.0039
+2022-11-28 16:00:00 IV_CHANGE: BABA: Current IV 0.5886 - Previous IV 0.5722 = Increase 0.0164
+2022-11-28 16:00:00 IV_CHANGE: BAC: Current IV 0.2415 - Previous IV 0.2377 = Increase 0.0037
+2022-11-28 16:00:00 IV_CHANGE: DIS: Current IV 0.3335 - Previous IV 0.3322 = Increase 0.0013
+2022-11-28 16:00:00 IV_CHANGE: HD: Current IV 0.2545 - Previous IV 0.2545 = Increase 0.0000
+2022-11-28 16:00:00 IV_CHANGE: META: Current IV 0.4263 - Previous IV 0.4224 = Increase 0.0039
+2022-11-28 16:00:00 IV_CHANGE: MSFT: Current IV 0.2913 - Previous IV 0.2912 = Increase 0.0002
+2022-11-28 16:00:00 IV_CHANGE: NVDA: Current IV 0.4986 - Previous IV 0.4884 = Increase 0.0102
+2022-11-28 16:00:00 IV_CHANGE: TLT: Current IV 0.1876 - Previous IV 0.1856 = Increase 0.0020
+2022-11-28 16:00:00 IV_CHANGE: XLE: Current IV 0.3326 - Previous IV 0.3300 = Increase 0.0026
+2022-11-28 16:00:00 IV_CHANGE: ATVI: Current IV 0.2416 - Previous IV 0.2407 = Increase 0.0009
+2022-11-28 16:00:00 IV_CHANGE: BRK.B: Current IV 0.1857 - Previous IV 0.1836 = Increase 0.0020
+2022-11-28 16:00:00 IV_CHANGE: GDX: Current IV 0.3789 - Previous IV 0.3779 = Increase 0.0010
+2022-11-28 16:00:00 IV_CHANGE: MANU: Current IV 0.9041 - Previous IV 0.9028 = Increase 0.0013
+2022-11-28 16:00:00 SCREENING: Found 15 stocks with an IV increase since last screening.
+2022-11-28 16:00:00 SCREENING: 7 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2022-11-28 16:00:00 Ranking candidates by IV increase.
+2022-11-28 16:15:00 VIX=22.21 | Regime: BEAR
+2022-11-28 16:15:00 Market regime is BEAR. Pausing new trades.
+2022-11-29 00:00:00 UNIVERSE: Passed price filter: 8408
+2022-11-29 00:00:00 UNIVERSE: Passed volume filter (>500k): 2843
+2022-11-29 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-11-29 00:00:00 UNIVERSE: Passed price filter: 8411
+2022-11-29 00:00:00 UNIVERSE: Passed volume filter (>500k): 2943
+2022-11-29 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-11-29 00:00:00 UNIVERSE: Passed price filter: 8369
+2022-11-29 00:00:00 UNIVERSE: Passed volume filter (>500k): 2888
+2022-11-29 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-11-29 00:00:00 UNIVERSE: Passed price filter: 8346
+2022-11-29 00:00:00 UNIVERSE: Passed volume filter (>500k): 2849
+2022-11-29 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-11-29 00:00:00 UNIVERSE: Passed price filter: 8370
+2022-11-29 00:00:00 UNIVERSE: Passed volume filter (>500k): 2811
+2022-11-29 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-11-29 00:00:00 UNIVERSE: Passed price filter: 8383
+2022-11-29 00:00:00 UNIVERSE: Passed volume filter (>500k): 2795
+2022-11-29 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-12-05 10:00:00 VIX=19.06 | Regime: BULL
+2022-12-05 10:00:00 SCREENING: Found 36 stocks with a ready IV indicator.
+2022-12-05 10:00:00 IV_CHANGE: BABA: Current IV 0.6219 - Previous IV 0.5886 = Increase 0.0333
+2022-12-05 10:00:00 IV_CHANGE: BAC: Current IV 0.2822 - Previous IV 0.2415 = Increase 0.0407
+2022-12-05 10:00:00 IV_CHANGE: EEM: Current IV 0.1891 - Previous IV 0.1847 = Increase 0.0045
+2022-12-05 10:00:00 IV_CHANGE: EFA: Current IV 0.1628 - Previous IV 0.1570 = Increase 0.0058
+2022-12-05 10:00:00 IV_CHANGE: HD: Current IV 0.2552 - Previous IV 0.2545 = Increase 0.0007
+2022-12-05 10:00:00 IV_CHANGE: HYG: Current IV 0.1155 - Previous IV 0.0883 = Increase 0.0272
+2022-12-05 10:00:00 IV_CHANGE: IWM: Current IV 0.2304 - Previous IV 0.2298 = Increase 0.0006
+2022-12-05 10:00:00 IV_CHANGE: META: Current IV 0.4455 - Previous IV 0.4263 = Increase 0.0193
+2022-12-05 10:00:00 IV_CHANGE: NFLX: Current IV 0.4502 - Previous IV 0.4363 = Increase 0.0139
+2022-12-05 10:00:00 IV_CHANGE: QQQ: Current IV 0.2996 - Previous IV 0.2680 = Increase 0.0316
+2022-12-05 10:00:00 IV_CHANGE: SQQQ: Current IV 0.8192 - Previous IV 0.8110 = Increase 0.0082
+2022-12-05 10:00:00 IV_CHANGE: TLT: Current IV 0.1974 - Previous IV 0.1876 = Increase 0.0098
+2022-12-05 10:00:00 IV_CHANGE: TQQQ: Current IV 0.8076 - Previous IV 0.7955 = Increase 0.0121
+2022-12-05 10:00:00 IV_CHANGE: BA: Current IV 0.4020 - Previous IV 0.3760 = Increase 0.0260
+2022-12-05 10:00:00 SCREENING: Found 14 stocks with an IV increase since last screening.
+2022-12-05 10:00:00 SCREENING: 8 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2022-12-05 10:00:00 Ranking candidates by IV increase.
+2022-12-05 11:00:00 VIX=19.06 | Regime: BULL
+2022-12-05 11:00:00 SCREENING: Found 36 stocks with a ready IV indicator.
+2022-12-05 11:00:00 IV_CHANGE: AAPL: Current IV 0.3045 - Previous IV 0.3010 = Increase 0.0035
+2022-12-05 11:00:00 IV_CHANGE: BAC: Current IV 0.2869 - Previous IV 0.2822 = Increase 0.0048
+2022-12-05 11:00:00 IV_CHANGE: GOOG: Current IV 0.3251 - Previous IV 0.3206 = Increase 0.0045
+2022-12-05 11:00:00 IV_CHANGE: GOOGL: Current IV 0.3244 - Previous IV 0.3201 = Increase 0.0043
+2022-12-05 11:00:00 IV_CHANGE: META: Current IV 0.4464 - Previous IV 0.4455 = Increase 0.0008
+2022-12-05 11:00:00 IV_CHANGE: SQQQ: Current IV 0.8202 - Previous IV 0.8192 = Increase 0.0011
+2022-12-05 11:00:00 IV_CHANGE: XLE: Current IV 0.2993 - Previous IV 0.2968 = Increase 0.0026
+2022-12-05 11:00:00 IV_CHANGE: XOM: Current IV 0.2725 - Previous IV 0.2700 = Increase 0.0026
+2022-12-05 11:00:00 IV_CHANGE: NIO: Current IV 0.8985 - Previous IV 0.8898 = Increase 0.0087
+2022-12-05 11:00:00 SCREENING: Found 9 stocks with an IV increase since last screening.
+2022-12-05 11:00:00 SCREENING: 4 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2022-12-05 11:00:00 Ranking candidates by IV increase.
+2022-12-05 11:00:00 [BUY] NIO: Current allocation 146.43%. Adding new 2% position.
+2022-12-05 11:00:00 FILLED NIO 158.0 @ $12.88
+2022-12-05 12:00:00 VIX=19.06 | Regime: BULL
+2022-12-05 12:00:00 SCREENING: Found 36 stocks with a ready IV indicator.
+2022-12-05 12:00:00 IV_CHANGE: AAPL: Current IV 0.3152 - Previous IV 0.3045 = Increase 0.0107
+2022-12-05 12:00:00 IV_CHANGE: AMZN: Current IV 0.4158 - Previous IV 0.4090 = Increase 0.0068
+2022-12-05 12:00:00 IV_CHANGE: EEM: Current IV 0.1856 - Previous IV 0.1739 = Increase 0.0117
+2022-12-05 12:00:00 IV_CHANGE: EFA: Current IV 0.1722 - Previous IV 0.1554 = Increase 0.0168
+2022-12-05 12:00:00 IV_CHANGE: GOOG: Current IV 0.3312 - Previous IV 0.3251 = Increase 0.0061
+2022-12-05 12:00:00 IV_CHANGE: GOOGL: Current IV 0.3336 - Previous IV 0.3244 = Increase 0.0091
+2022-12-05 12:00:00 IV_CHANGE: HYG: Current IV 0.1168 - Previous IV 0.1122 = Increase 0.0046
+2022-12-05 12:00:00 IV_CHANGE: IWM: Current IV 0.2249 - Previous IV 0.2192 = Increase 0.0057
+2022-12-05 12:00:00 IV_CHANGE: LQD: Current IV 0.1107 - Previous IV 0.1073 = Increase 0.0034
+2022-12-05 12:00:00 IV_CHANGE: NVDA: Current IV 0.4953 - Previous IV 0.4924 = Increase 0.0029
+2022-12-05 12:00:00 IV_CHANGE: QQQ: Current IV 0.2975 - Previous IV 0.2940 = Increase 0.0034
+2022-12-05 12:00:00 IV_CHANGE: SQQQ: Current IV 0.8202 - Previous IV 0.8202 = Increase 0.0000
+2022-12-05 12:00:00 IV_CHANGE: TLT: Current IV 0.1939 - Previous IV 0.1928 = Increase 0.0011
+2022-12-05 12:00:00 IV_CHANGE: TQQQ: Current IV 0.8128 - Previous IV 0.8029 = Increase 0.0099
+2022-12-05 12:00:00 IV_CHANGE: TSLA: Current IV 0.5856 - Previous IV 0.5800 = Increase 0.0055
+2022-12-05 12:00:00 IV_CHANGE: XLE: Current IV 0.3054 - Previous IV 0.2993 = Increase 0.0060
+2022-12-05 12:00:00 IV_CHANGE: XLF: Current IV 0.2246 - Previous IV 0.2177 = Increase 0.0069
+2022-12-05 12:00:00 IV_CHANGE: XOM: Current IV 0.2763 - Previous IV 0.2725 = Increase 0.0038
+2022-12-05 12:00:00 IV_CHANGE: FXI: Current IV 0.3543 - Previous IV 0.3431 = Increase 0.0112
+2022-12-05 12:00:00 IV_CHANGE: CRM: Current IV 0.3954 - Previous IV 0.3892 = Increase 0.0062
+2022-12-05 12:00:00 IV_CHANGE: WFC: Current IV 0.2976 - Previous IV 0.2876 = Increase 0.0099
+2022-12-05 12:00:00 SCREENING: Found 21 stocks with an IV increase since last screening.
+2022-12-05 12:00:00 SCREENING: 12 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2022-12-05 12:00:00 Ranking candidates by IV increase.
+2022-12-05 12:00:00 [BUY] EFA: Current allocation 148.82%. Adding new 2% position.
+2022-12-05 12:00:00 [BUY] XLF: Current allocation 150.80%. Adding new 2% position.
+2022-12-05 12:00:00 [BUY] CRM: Current allocation 152.77%. Adding new 2% position.
+2022-12-05 12:00:00 [BUY] LQD: Current allocation 154.69%. Adding new 2% position.
+2022-12-05 13:00:00 VIX=19.06 | Regime: BULL
+2022-12-05 13:00:00 SCREENING: Found 36 stocks with a ready IV indicator.
+2022-12-05 13:00:00 IV_CHANGE: AMZN: Current IV 0.4199 - Previous IV 0.4158 = Increase 0.0041
+2022-12-05 13:00:00 IV_CHANGE: BAC: Current IV 0.2884 - Previous IV 0.2849 = Increase 0.0035
+2022-12-05 13:00:00 IV_CHANGE: HYG: Current IV 0.1171 - Previous IV 0.1168 = Increase 0.0003
+2022-12-05 13:00:00 IV_CHANGE: IWM: Current IV 0.2299 - Previous IV 0.2249 = Increase 0.0050
+2022-12-05 13:00:00 IV_CHANGE: NFLX: Current IV 0.4420 - Previous IV 0.4378 = Increase 0.0043
+2022-12-05 13:00:00 IV_CHANGE: QQQ: Current IV 0.2996 - Previous IV 0.2975 = Increase 0.0021
+2022-12-05 13:00:00 IV_CHANGE: SQQQ: Current IV 0.8250 - Previous IV 0.8202 = Increase 0.0048
+2022-12-05 13:00:00 IV_CHANGE: TSLA: Current IV 0.5887 - Previous IV 0.5856 = Increase 0.0031
+2022-12-05 13:00:00 IV_CHANGE: XLF: Current IV 0.2303 - Previous IV 0.2246 = Increase 0.0057
+2022-12-05 13:00:00 IV_CHANGE: XOM: Current IV 0.2780 - Previous IV 0.2763 = Increase 0.0016
+2022-12-05 13:00:00 IV_CHANGE: FXI: Current IV 0.4015 - Previous IV 0.3543 = Increase 0.0472
+2022-12-05 13:00:00 IV_CHANGE: ENPH: Current IV 0.5472 - Previous IV 0.5465 = Increase 0.0006
+2022-12-05 13:00:00 IV_CHANGE: CRM: Current IV 0.4130 - Previous IV 0.3954 = Increase 0.0176
+2022-12-05 13:00:00 IV_CHANGE: PYPL: Current IV 0.4707 - Previous IV 0.4668 = Increase 0.0039
+2022-12-05 13:00:00 IV_CHANGE: BA: Current IV 0.3984 - Previous IV 0.3954 = Increase 0.0030
+2022-12-05 13:00:00 SCREENING: Found 15 stocks with an IV increase since last screening.
+2022-12-05 13:00:00 SCREENING: 12 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2022-12-05 13:00:00 Ranking candidates by IV increase.
+2022-12-05 13:00:00 [BUY] FXI: Current allocation 156.77%. Adding new 2% position.
+2022-12-05 14:00:00 VIX=19.06 | Regime: BULL
+2022-12-05 14:00:00 SCREENING: Found 36 stocks with a ready IV indicator.
+2022-12-05 14:00:00 IV_CHANGE: AAPL: Current IV 0.3095 - Previous IV 0.3086 = Increase 0.0009
+2022-12-05 14:00:00 IV_CHANGE: AMD: Current IV 0.5054 - Previous IV 0.4870 = Increase 0.0184
+2022-12-05 14:00:00 IV_CHANGE: AMZN: Current IV 0.4222 - Previous IV 0.4199 = Increase 0.0023
+2022-12-05 14:00:00 IV_CHANGE: BABA: Current IV 0.5949 - Previous IV 0.5934 = Increase 0.0015
+2022-12-05 14:00:00 IV_CHANGE: BAC: Current IV 0.2989 - Previous IV 0.2884 = Increase 0.0105
+2022-12-05 14:00:00 IV_CHANGE: EEM: Current IV 0.1856 - Previous IV 0.1803 = Increase 0.0052
+2022-12-05 14:00:00 IV_CHANGE: EFA: Current IV 0.1758 - Previous IV 0.1714 = Increase 0.0044
+2022-12-05 14:00:00 IV_CHANGE: GOOGL: Current IV 0.3330 - Previous IV 0.3309 = Increase 0.0021
+2022-12-05 14:00:00 IV_CHANGE: HYG: Current IV 0.1186 - Previous IV 0.1171 = Increase 0.0015
+2022-12-05 14:00:00 IV_CHANGE: IWM: Current IV 0.2329 - Previous IV 0.2299 = Increase 0.0030
+2022-12-05 14:00:00 IV_CHANGE: LQD: Current IV 0.1095 - Previous IV 0.1089 = Increase 0.0007
+2022-12-05 14:00:00 IV_CHANGE: META: Current IV 0.4410 - Previous IV 0.4400 = Increase 0.0010
+2022-12-05 14:00:00 IV_CHANGE: NFLX: Current IV 0.4450 - Previous IV 0.4420 = Increase 0.0030
+2022-12-05 14:00:00 IV_CHANGE: NVDA: Current IV 0.5032 - Previous IV 0.4948 = Increase 0.0085
+2022-12-05 14:00:00 IV_CHANGE: QQQ: Current IV 0.3011 - Previous IV 0.2996 = Increase 0.0015
+2022-12-05 14:00:00 IV_CHANGE: SQQQ: Current IV 0.8310 - Previous IV 0.8250 = Increase 0.0060
+2022-12-05 14:00:00 IV_CHANGE: TLT: Current IV 0.1949 - Previous IV 0.1935 = Increase 0.0014
+2022-12-05 14:00:00 IV_CHANGE: TQQQ: Current IV 0.8127 - Previous IV 0.8078 = Increase 0.0049
+2022-12-05 14:00:00 IV_CHANGE: ENPH: Current IV 0.5528 - Previous IV 0.5472 = Increase 0.0057
+2022-12-05 14:00:00 IV_CHANGE: CRM: Current IV 0.4318 - Previous IV 0.4130 = Increase 0.0188
+2022-12-05 14:00:00 IV_CHANGE: BA: Current IV 0.4052 - Previous IV 0.3984 = Increase 0.0068
+2022-12-05 14:00:00 IV_CHANGE: WFC: Current IV 0.3013 - Previous IV 0.2942 = Increase 0.0071
+2022-12-05 14:00:00 SCREENING: Found 22 stocks with an IV increase since last screening.
+2022-12-05 14:00:00 SCREENING: 12 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2022-12-05 14:00:00 Ranking candidates by IV increase.
+2022-12-05 15:00:00 VIX=19.06 | Regime: BULL
+2022-12-05 15:00:00 SCREENING: Found 36 stocks with a ready IV indicator.
+2022-12-05 15:00:00 IV_CHANGE: AAPL: Current IV 0.3129 - Previous IV 0.3095 = Increase 0.0034
+2022-12-05 15:00:00 IV_CHANGE: BABA: Current IV 0.6002 - Previous IV 0.5949 = Increase 0.0053
+2022-12-05 15:00:00 IV_CHANGE: BAC: Current IV 0.2997 - Previous IV 0.2989 = Increase 0.0008
+2022-12-05 15:00:00 IV_CHANGE: GOOG: Current IV 0.3331 - Previous IV 0.3293 = Increase 0.0037
+2022-12-05 15:00:00 IV_CHANGE: NFLX: Current IV 0.4473 - Previous IV 0.4450 = Increase 0.0023
+2022-12-05 15:00:00 IV_CHANGE: SQQQ: Current IV 0.8362 - Previous IV 0.8310 = Increase 0.0052
+2022-12-05 15:00:00 IV_CHANGE: TQQQ: Current IV 0.8178 - Previous IV 0.8127 = Increase 0.0051
+2022-12-05 15:00:00 IV_CHANGE: TSLA: Current IV 0.5898 - Previous IV 0.5804 = Increase 0.0095
+2022-12-05 15:00:00 IV_CHANGE: XLE: Current IV 0.3126 - Previous IV 0.3045 = Increase 0.0082
+2022-12-05 15:00:00 IV_CHANGE: XOM: Current IV 0.2900 - Previous IV 0.2759 = Increase 0.0141
+2022-12-05 15:00:00 IV_CHANGE: FXI: Current IV 0.3559 - Previous IV 0.3480 = Increase 0.0079
+2022-12-05 15:00:00 IV_CHANGE: PYPL: Current IV 0.4752 - Previous IV 0.4696 = Increase 0.0057
+2022-12-05 15:00:00 IV_CHANGE: NIO: Current IV 0.8969 - Previous IV 0.8886 = Increase 0.0083
+2022-12-05 15:00:00 IV_CHANGE: WFC: Current IV 0.3028 - Previous IV 0.3013 = Increase 0.0015
+2022-12-05 15:00:00 SCREENING: Found 14 stocks with an IV increase since last screening.
+2022-12-05 15:00:00 SCREENING: 7 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2022-12-05 15:00:00 Ranking candidates by IV increase.
+2022-12-05 16:00:00 VIX=19.06 | Regime: BULL
+2022-12-05 16:00:00 SCREENING: Found 36 stocks with a ready IV indicator.
+2022-12-05 16:00:00 IV_CHANGE: BABA: Current IV 0.6100 - Previous IV 0.6002 = Increase 0.0098
+2022-12-05 16:00:00 IV_CHANGE: HYG: Current IV 0.1192 - Previous IV 0.1177 = Increase 0.0015
+2022-12-05 16:00:00 IV_CHANGE: LQD: Current IV 0.1098 - Previous IV 0.1083 = Increase 0.0014
+2022-12-05 16:00:00 IV_CHANGE: TLT: Current IV 0.1967 - Previous IV 0.1931 = Increase 0.0036
+2022-12-05 16:00:00 IV_CHANGE: ENPH: Current IV 0.5511 - Previous IV 0.5500 = Increase 0.0011
+2022-12-05 16:00:00 IV_CHANGE: NIO: Current IV 0.9020 - Previous IV 0.8969 = Increase 0.0050
+2022-12-05 16:00:00 IV_CHANGE: WFC: Current IV 0.3056 - Previous IV 0.3028 = Increase 0.0028
+2022-12-05 16:00:00 SCREENING: Found 7 stocks with an IV increase since last screening.
+2022-12-05 16:00:00 SCREENING: 4 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2022-12-05 16:00:00 Ranking candidates by IV increase.
+2022-12-05 16:15:00 VIX=20.75 | Regime: BEAR
+2022-12-05 16:15:00 Market regime is BEAR. Pausing new trades.
+2022-12-07 00:00:00 UNIVERSE: Passed price filter: 8379
+2022-12-07 00:00:00 UNIVERSE: Passed volume filter (>500k): 2916
+2022-12-07 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-12-07 00:00:00 UNIVERSE: Passed price filter: 8392
+2022-12-07 00:00:00 UNIVERSE: Passed volume filter (>500k): 3152
+2022-12-07 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-12-07 00:00:00 UNIVERSE: Passed price filter: 8373
+2022-12-07 00:00:00 UNIVERSE: Passed volume filter (>500k): 3014
+2022-12-07 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-12-07 00:00:00 UNIVERSE: Passed price filter: 8368
+2022-12-07 00:00:00 UNIVERSE: Passed volume filter (>500k): 3038
+2022-12-07 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-12-07 00:00:00 UNIVERSE: Passed price filter: 8331
+2022-12-07 00:00:00 UNIVERSE: Passed volume filter (>500k): 3465
+2022-12-07 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-12-07 00:00:00 UNIVERSE: Passed price filter: 8328
+2022-12-07 00:00:00 UNIVERSE: Passed volume filter (>500k): 2999
+2022-12-07 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-12-12 10:00:00 VIX=22.85 | Regime: BEAR
+2022-12-12 10:00:00 Market regime is BEAR. Pausing new trades.
+2022-12-12 11:00:00 VIX=22.85 | Regime: BEAR
+2022-12-12 11:00:00 Market regime is BEAR. Pausing new trades.
+2022-12-12 12:00:00 VIX=22.85 | Regime: BEAR
+2022-12-12 12:00:00 Market regime is BEAR. Pausing new trades.
+2022-12-12 13:00:00 VIX=22.85 | Regime: BEAR
+2022-12-12 13:00:00 Market regime is BEAR. Pausing new trades.
+2022-12-12 14:00:00 VIX=22.85 | Regime: BEAR
+2022-12-12 14:00:00 Market regime is BEAR. Pausing new trades.
+2022-12-12 15:00:00 VIX=22.85 | Regime: BEAR
+2022-12-12 15:00:00 Market regime is BEAR. Pausing new trades.
+2022-12-12 16:00:00 VIX=22.85 | Regime: BEAR
+2022-12-12 16:00:00 Market regime is BEAR. Pausing new trades.
+2022-12-12 16:15:00 VIX=25.00 | Regime: BEAR
+2022-12-12 16:15:00 Market regime is BEAR. Pausing new trades.
+2022-12-15 00:00:00 UNIVERSE: Passed price filter: 8324
+2022-12-15 00:00:00 UNIVERSE: Passed volume filter (>500k): 2935
+2022-12-15 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-12-15 00:00:00 UNIVERSE: Passed price filter: 8303
+2022-12-15 00:00:00 UNIVERSE: Passed volume filter (>500k): 2885
+2022-12-15 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-12-15 00:00:00 UNIVERSE: Passed price filter: 8327
+2022-12-15 00:00:00 UNIVERSE: Passed volume filter (>500k): 2856
+2022-12-15 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-12-15 00:00:00 UNIVERSE: Passed price filter: 8297
+2022-12-15 00:00:00 UNIVERSE: Passed volume filter (>500k): 2570
+2022-12-15 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-12-15 00:00:00 UNIVERSE: Passed price filter: 8301
+2022-12-15 00:00:00 UNIVERSE: Passed volume filter (>500k): 2669
+2022-12-15 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-12-15 00:00:00 UNIVERSE: Passed price filter: 8308
+2022-12-15 00:00:00 UNIVERSE: Passed volume filter (>500k): 2736
+2022-12-15 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-12-19 10:00:00 VIX=22.62 | Regime: BEAR
+2022-12-19 10:00:00 Market regime is BEAR. Pausing new trades.
+2022-12-19 11:00:00 VIX=22.62 | Regime: BEAR
+2022-12-19 11:00:00 Market regime is BEAR. Pausing new trades.
+2022-12-19 12:00:00 VIX=22.62 | Regime: BEAR
+2022-12-19 12:00:00 Market regime is BEAR. Pausing new trades.
+2022-12-19 12:00:00 FILLED NIO -158.0 @ $10.89
+2022-12-19 13:00:00 VIX=22.62 | Regime: BEAR
+2022-12-19 13:00:00 Market regime is BEAR. Pausing new trades.
+2022-12-19 14:00:00 VIX=22.62 | Regime: BEAR
+2022-12-19 14:00:00 Market regime is BEAR. Pausing new trades.
+2022-12-19 15:00:00 VIX=22.62 | Regime: BEAR
+2022-12-19 15:00:00 Market regime is BEAR. Pausing new trades.
+2022-12-19 16:00:00 VIX=22.62 | Regime: BEAR
+2022-12-19 16:00:00 Market regime is BEAR. Pausing new trades.
+2022-12-19 16:15:00 VIX=22.41 | Regime: BEAR
+2022-12-19 16:15:00 Market regime is BEAR. Pausing new trades.
+2022-12-23 00:00:00 UNIVERSE: Passed price filter: 8304
+2022-12-23 00:00:00 UNIVERSE: Passed volume filter (>500k): 2822
+2022-12-23 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-12-23 00:00:00 UNIVERSE: Passed price filter: 8344
+2022-12-23 00:00:00 UNIVERSE: Passed volume filter (>500k): 2835
+2022-12-23 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-12-23 00:00:00 UNIVERSE: Passed price filter: 8371
+2022-12-23 00:00:00 UNIVERSE: Passed volume filter (>500k): 2976
+2022-12-23 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-12-23 00:00:00 UNIVERSE: Passed price filter: 8384
+2022-12-23 00:00:00 UNIVERSE: Passed volume filter (>500k): 2948
+2022-12-23 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-12-23 00:00:00 UNIVERSE: Passed price filter: 8389
+2022-12-23 00:00:00 UNIVERSE: Passed volume filter (>500k): 2812
+2022-12-23 00:00:00 UNIVERSE: Final selection: 30 stocks
+2022-12-23 00:00:00 UNIVERSE: Passed price filter: 8390
+2022-12-23 00:00:00 UNIVERSE: Passed volume filter (>500k): 2852
+2022-12-23 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-01-04 00:00:00 UNIVERSE: Passed price filter: 8422
+2023-01-04 00:00:00 UNIVERSE: Passed volume filter (>500k): 2927
+2023-01-04 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-01-04 00:00:00 UNIVERSE: Passed price filter: 8378
+2023-01-04 00:00:00 UNIVERSE: Passed volume filter (>500k): 2824
+2023-01-04 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-01-04 00:00:00 UNIVERSE: Passed price filter: 8408
+2023-01-04 00:00:00 UNIVERSE: Passed volume filter (>500k): 2902
+2023-01-04 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-01-04 00:00:00 UNIVERSE: Passed price filter: 8414
+2023-01-04 00:00:00 UNIVERSE: Passed volume filter (>500k): 2965
+2023-01-04 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-01-04 00:00:00 UNIVERSE: Passed price filter: 8407
+2023-01-04 00:00:00 UNIVERSE: Passed volume filter (>500k): 2849
+2023-01-04 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-01-04 00:00:00 UNIVERSE: Passed price filter: 8442
+2023-01-04 00:00:00 UNIVERSE: Passed volume filter (>500k): 2914
+2023-01-04 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-01-09 10:00:00 VIX=21.13 | Regime: BEAR
+2023-01-09 10:00:00 Market regime is BEAR. Pausing new trades.
+2023-01-09 11:00:00 VIX=21.13 | Regime: BEAR
+2023-01-09 11:00:00 Market regime is BEAR. Pausing new trades.
+2023-01-09 12:00:00 VIX=21.13 | Regime: BEAR
+2023-01-09 12:00:00 Market regime is BEAR. Pausing new trades.
+2023-01-09 13:00:00 VIX=21.13 | Regime: BEAR
+2023-01-09 13:00:00 Market regime is BEAR. Pausing new trades.
+2023-01-09 14:00:00 VIX=21.13 | Regime: BEAR
+2023-01-09 14:00:00 Market regime is BEAR. Pausing new trades.
+2023-01-09 15:00:00 VIX=21.13 | Regime: BEAR
+2023-01-09 15:00:00 Market regime is BEAR. Pausing new trades.
+2023-01-09 16:00:00 VIX=21.13 | Regime: BEAR
+2023-01-09 16:00:00 Market regime is BEAR. Pausing new trades.
+2023-01-09 16:15:00 VIX=21.96 | Regime: BEAR
+2023-01-09 16:15:00 Market regime is BEAR. Pausing new trades.
+2023-01-12 00:00:00 UNIVERSE: Passed price filter: 8418
+2023-01-12 00:00:00 UNIVERSE: Passed volume filter (>500k): 2914
+2023-01-12 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-01-12 00:00:00 UNIVERSE: Passed price filter: 8400
+2023-01-12 00:00:00 UNIVERSE: Passed volume filter (>500k): 2838
+2023-01-12 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-01-12 00:00:00 UNIVERSE: Passed price filter: 8435
+2023-01-12 00:00:00 UNIVERSE: Passed volume filter (>500k): 2904
+2023-01-12 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-01-12 00:00:00 UNIVERSE: Passed price filter: 8455
+2023-01-12 00:00:00 UNIVERSE: Passed volume filter (>500k): 2920
+2023-01-12 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-01-12 00:00:00 UNIVERSE: Passed price filter: 8443
+2023-01-12 00:00:00 UNIVERSE: Passed volume filter (>500k): 2766
+2023-01-12 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-01-12 00:00:00 UNIVERSE: Passed price filter: 8446
+2023-01-12 00:00:00 UNIVERSE: Passed volume filter (>500k): 2801
+2023-01-12 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-01-23 10:00:00 UNIVERSE: Passed price filter: 8432
+2023-01-23 10:00:00 UNIVERSE: Passed volume filter (>500k): 2830
+2023-01-23 10:00:00 UNIVERSE: Final selection: 30 stocks
+2023-01-23 10:00:00 UNIVERSE: Passed price filter: 8459
+2023-01-23 10:00:00 UNIVERSE: Passed volume filter (>500k): 2810
+2023-01-23 10:00:00 UNIVERSE: Final selection: 30 stocks
+2023-01-23 10:00:00 UNIVERSE: Passed price filter: 8448
+2023-01-23 10:00:00 UNIVERSE: Passed volume filter (>500k): 2823
+2023-01-23 10:00:00 UNIVERSE: Final selection: 30 stocks
+2023-01-23 10:00:00 UNIVERSE: Passed price filter: 8450
+2023-01-23 10:00:00 UNIVERSE: Passed volume filter (>500k): 3068
+2023-01-23 10:00:00 UNIVERSE: Final selection: 30 stocks
+2023-01-23 10:00:00 VIX=19.85 | Regime: BULL
+2023-01-23 10:00:00 SCREENING: Found 36 stocks with a ready IV indicator.
+2023-01-23 10:00:00 IV_CHANGE: AAPL: Current IV 0.3081 - Previous IV 0.3073 = Increase 0.0008
+2023-01-23 10:00:00 IV_CHANGE: AMD: Current IV 0.5013 - Previous IV 0.4880 = Increase 0.0132
+2023-01-23 10:00:00 IV_CHANGE: AMZN: Current IV 0.4844 - Previous IV 0.4145 = Increase 0.0698
+2023-01-23 10:00:00 IV_CHANGE: DIS: Current IV 0.3751 - Previous IV 0.3008 = Increase 0.0742
+2023-01-23 10:00:00 IV_CHANGE: GOOG: Current IV 0.3707 - Previous IV 0.3241 = Increase 0.0466
+2023-01-23 10:00:00 IV_CHANGE: GOOGL: Current IV 0.3638 - Previous IV 0.3300 = Increase 0.0338
+2023-01-23 10:00:00 IV_CHANGE: META: Current IV 0.5771 - Previous IV 0.4334 = Increase 0.1437
+2023-01-23 10:00:00 IV_CHANGE: MSFT: Current IV 0.2992 - Previous IV 0.2586 = Increase 0.0406
+2023-01-23 10:00:00 IV_CHANGE: TSLA: Current IV 0.6475 - Previous IV 0.5889 = Increase 0.0586
+2023-01-23 10:00:00 IV_CHANGE: ENPH: Current IV 0.7343 - Previous IV 0.5511 = Increase 0.1833
+2023-01-23 10:00:00 SCREENING: Found 10 stocks with an IV increase since last screening.
+2023-01-23 10:00:00 SCREENING: 9 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2023-01-23 10:00:00 Ranking candidates by IV increase.
+2023-01-23 10:00:00 [BUY] ENPH: Current allocation 147.03%. Adding new 2% position.
+2023-01-23 10:00:00 [BUY] TSLA: Current allocation 149.01%. Adding new 2% position.
+2023-01-23 10:00:00 [BUY] AMD: Current allocation 150.92%. Adding new 2% position.
+2023-01-23 11:00:00 UNIVERSE: Passed price filter: 8452
+2023-01-23 11:00:00 UNIVERSE: Passed volume filter (>500k): 3159
+2023-01-23 11:00:00 UNIVERSE: Final selection: 30 stocks
+2023-01-23 11:00:00 UNIVERSE: Passed price filter: 8478
+2023-01-23 11:00:00 UNIVERSE: Passed volume filter (>500k): 3248
+2023-01-23 11:00:00 UNIVERSE: Final selection: 30 stocks
+2023-01-23 11:00:00 VIX=19.85 | Regime: BULL
+2023-01-23 11:00:00 SCREENING: Found 36 stocks with a ready IV indicator.
+2023-01-23 11:00:00 IV_CHANGE: AMD: Current IV 0.5021 - Previous IV 0.5013 = Increase 0.0009
+2023-01-23 11:00:00 IV_CHANGE: EFA: Current IV 0.1543 - Previous IV 0.1541 = Increase 0.0001
+2023-01-23 11:00:00 IV_CHANGE: IWM: Current IV 0.2070 - Previous IV 0.2062 = Increase 0.0008
+2023-01-23 11:00:00 IV_CHANGE: JPM: Current IV 0.2144 - Previous IV 0.2116 = Increase 0.0028
+2023-01-23 11:00:00 IV_CHANGE: NFLX: Current IV 0.3801 - Previous IV 0.3783 = Increase 0.0019
+2023-01-23 11:00:00 IV_CHANGE: SQQQ: Current IV 0.6870 - Previous IV 0.6786 = Increase 0.0084
+2023-01-23 11:00:00 IV_CHANGE: TQQQ: Current IV 0.6732 - Previous IV 0.6582 = Increase 0.0150
+2023-01-23 11:00:00 IV_CHANGE: TSLA: Current IV 0.6500 - Previous IV 0.6475 = Increase 0.0025
+2023-01-23 11:00:00 IV_CHANGE: FXI: Current IV 0.2810 - Previous IV 0.2710 = Increase 0.0100
+2023-01-23 11:00:00 SCREENING: Found 9 stocks with an IV increase since last screening.
+2023-01-23 11:00:00 SCREENING: 6 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2023-01-23 11:00:00 Ranking candidates by IV increase.
+2023-01-23 11:00:00 [BUY] JPM: Current allocation 152.49%. Adding new 2% position.
+2023-01-23 12:00:00 VIX=19.85 | Regime: BULL
+2023-01-23 12:00:00 SCREENING: Found 36 stocks with a ready IV indicator.
+2023-01-23 12:00:00 IV_CHANGE: AMD: Current IV 0.5060 - Previous IV 0.5021 = Increase 0.0039
+2023-01-23 12:00:00 IV_CHANGE: EEM: Current IV 0.1696 - Previous IV 0.1689 = Increase 0.0007
+2023-01-23 12:00:00 IV_CHANGE: GOOG: Current IV 0.3667 - Previous IV 0.3666 = Increase 0.0000
+2023-01-23 12:00:00 IV_CHANGE: GOOGL: Current IV 0.3633 - Previous IV 0.3603 = Increase 0.0030
+2023-01-23 12:00:00 IV_CHANGE: IWM: Current IV 0.2072 - Previous IV 0.2070 = Increase 0.0001
+2023-01-23 12:00:00 IV_CHANGE: JPM: Current IV 0.2194 - Previous IV 0.2144 = Increase 0.0050
+2023-01-23 12:00:00 IV_CHANGE: LQD: Current IV 0.0913 - Previous IV 0.0911 = Increase 0.0001
+2023-01-23 12:00:00 IV_CHANGE: MSFT: Current IV 0.2955 - Previous IV 0.2953 = Increase 0.0002
+2023-01-23 12:00:00 IV_CHANGE: NVDA: Current IV 0.4728 - Previous IV 0.4723 = Increase 0.0005
+2023-01-23 12:00:00 IV_CHANGE: TSLA: Current IV 0.6569 - Previous IV 0.6500 = Increase 0.0069
+2023-01-23 12:00:00 SCREENING: Found 10 stocks with an IV increase since last screening.
+2023-01-23 12:00:00 SCREENING: 5 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2023-01-23 12:00:00 Ranking candidates by IV increase.
+2023-01-23 13:00:00 VIX=19.85 | Regime: BULL
+2023-01-23 13:00:00 SCREENING: Found 36 stocks with a ready IV indicator.
+2023-01-23 13:00:00 IV_CHANGE: AAPL: Current IV 0.3067 - Previous IV 0.2909 = Increase 0.0158
+2023-01-23 13:00:00 IV_CHANGE: AMZN: Current IV 0.4802 - Previous IV 0.4669 = Increase 0.0133
+2023-01-23 13:00:00 IV_CHANGE: BABA: Current IV 0.4516 - Previous IV 0.4500 = Increase 0.0015
+2023-01-23 13:00:00 IV_CHANGE: EEM: Current IV 0.1722 - Previous IV 0.1696 = Increase 0.0026
+2023-01-23 13:00:00 IV_CHANGE: GOOG: Current IV 0.3668 - Previous IV 0.3667 = Increase 0.0002
+2023-01-23 13:00:00 IV_CHANGE: TSLA: Current IV 0.6637 - Previous IV 0.6569 = Increase 0.0068
+2023-01-23 13:00:00 IV_CHANGE: FXI: Current IV 0.2810 - Previous IV 0.2797 = Increase 0.0013
+2023-01-23 13:00:00 IV_CHANGE: ENPH: Current IV 0.7090 - Previous IV 0.7086 = Increase 0.0004
+2023-01-23 13:00:00 IV_CHANGE: CRM: Current IV 0.3284 - Previous IV 0.3228 = Increase 0.0056
+2023-01-23 13:00:00 IV_CHANGE: GS: Current IV 0.2314 - Previous IV 0.2301 = Increase 0.0013
+2023-01-23 13:00:00 SCREENING: Found 10 stocks with an IV increase since last screening.
+2023-01-23 13:00:00 SCREENING: 8 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2023-01-23 13:00:00 Ranking candidates by IV increase.
+2023-01-23 13:00:00 [BUY] BABA: Current allocation 154.09%. Adding new 2% position.
+2023-01-23 13:00:00 [BUY] GS: Current allocation 156.06%. Adding new 2% position.
+2023-01-23 14:00:00 VIX=19.85 | Regime: BULL
+2023-01-23 14:00:00 SCREENING: Found 36 stocks with a ready IV indicator.
+2023-01-23 14:00:00 IV_CHANGE: AMD: Current IV 0.5044 - Previous IV 0.5021 = Increase 0.0023
+2023-01-23 14:00:00 IV_CHANGE: AMZN: Current IV 0.4851 - Previous IV 0.4802 = Increase 0.0050
+2023-01-23 14:00:00 IV_CHANGE: DIS: Current IV 0.3645 - Previous IV 0.3613 = Increase 0.0032
+2023-01-23 14:00:00 IV_CHANGE: EEM: Current IV 0.1725 - Previous IV 0.1722 = Increase 0.0003
+2023-01-23 14:00:00 IV_CHANGE: EFA: Current IV 0.1547 - Previous IV 0.1539 = Increase 0.0008
+2023-01-23 14:00:00 IV_CHANGE: HYG: Current IV 0.0722 - Previous IV 0.0699 = Increase 0.0024
+2023-01-23 14:00:00 IV_CHANGE: IWM: Current IV 0.2053 - Previous IV 0.2043 = Increase 0.0010
+2023-01-23 14:00:00 IV_CHANGE: META: Current IV 0.5636 - Previous IV 0.5589 = Increase 0.0047
+2023-01-23 14:00:00 IV_CHANGE: NFLX: Current IV 0.3815 - Previous IV 0.3791 = Increase 0.0024
+2023-01-23 14:00:00 IV_CHANGE: NVDA: Current IV 0.4717 - Previous IV 0.4684 = Increase 0.0034
+2023-01-23 14:00:00 IV_CHANGE: QQQ: Current IV 0.2242 - Previous IV 0.2227 = Increase 0.0015
+2023-01-23 14:00:00 IV_CHANGE: SQQQ: Current IV 0.6836 - Previous IV 0.6745 = Increase 0.0091
+2023-01-23 14:00:00 IV_CHANGE: TLT: Current IV 0.1699 - Previous IV 0.1692 = Increase 0.0008
+2023-01-23 14:00:00 IV_CHANGE: TQQQ: Current IV 0.6570 - Previous IV 0.6497 = Increase 0.0072
+2023-01-23 14:00:00 IV_CHANGE: TSLA: Current IV 0.6721 - Previous IV 0.6637 = Increase 0.0084
+2023-01-23 14:00:00 IV_CHANGE: IEFA: Current IV 0.1478 - Previous IV 0.1473 = Increase 0.0005
+2023-01-23 14:00:00 IV_CHANGE: CRM: Current IV 0.3299 - Previous IV 0.3284 = Increase 0.0015
+2023-01-23 14:00:00 IV_CHANGE: JNJ: Current IV 0.1592 - Previous IV 0.1580 = Increase 0.0012
+2023-01-23 14:00:00 IV_CHANGE: LLY: Current IV 0.2481 - Previous IV 0.2479 = Increase 0.0002
+2023-01-23 14:00:00 SCREENING: Found 19 stocks with an IV increase since last screening.
+2023-01-23 14:00:00 SCREENING: 11 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2023-01-23 14:00:00 Ranking candidates by IV increase.
+2023-01-23 14:00:00 [BUY] TQQQ: Current allocation 157.59%. Adding new 2% position.
+2023-01-23 15:00:00 VIX=19.85 | Regime: BULL
+2023-01-23 15:00:00 SCREENING: Found 36 stocks with a ready IV indicator.
+2023-01-23 15:00:00 IV_CHANGE: AAPL: Current IV 0.3060 - Previous IV 0.3049 = Increase 0.0011
+2023-01-23 15:00:00 IV_CHANGE: AMZN: Current IV 0.4861 - Previous IV 0.4851 = Increase 0.0009
+2023-01-23 15:00:00 IV_CHANGE: BABA: Current IV 0.4534 - Previous IV 0.4466 = Increase 0.0069
+2023-01-23 15:00:00 IV_CHANGE: HYG: Current IV 0.0743 - Previous IV 0.0722 = Increase 0.0020
+2023-01-23 15:00:00 IV_CHANGE: IWM: Current IV 0.2077 - Previous IV 0.2053 = Increase 0.0024
+2023-01-23 15:00:00 IV_CHANGE: JPM: Current IV 0.2170 - Previous IV 0.1980 = Increase 0.0190
+2023-01-23 15:00:00 IV_CHANGE: MSFT: Current IV 0.2953 - Previous IV 0.2927 = Increase 0.0026
+2023-01-23 15:00:00 IV_CHANGE: NFLX: Current IV 0.3823 - Previous IV 0.3815 = Increase 0.0009
+2023-01-23 15:00:00 IV_CHANGE: QQQ: Current IV 0.2275 - Previous IV 0.2242 = Increase 0.0033
+2023-01-23 15:00:00 IV_CHANGE: SQQQ: Current IV 0.6869 - Previous IV 0.6836 = Increase 0.0034
+2023-01-23 15:00:00 IV_CHANGE: XOM: Current IV 0.2415 - Previous IV 0.2368 = Increase 0.0047
+2023-01-23 15:00:00 IV_CHANGE: IEFA: Current IV 0.1499 - Previous IV 0.1478 = Increase 0.0022
+2023-01-23 15:00:00 IV_CHANGE: ENPH: Current IV 0.7079 - Previous IV 0.7055 = Increase 0.0024
+2023-01-23 15:00:00 IV_CHANGE: GS: Current IV 0.2312 - Previous IV 0.2298 = Increase 0.0014
+2023-01-23 15:00:00 SCREENING: Found 14 stocks with an IV increase since last screening.
+2023-01-23 15:00:00 SCREENING: 5 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2023-01-23 15:00:00 Ranking candidates by IV increase.
+2023-01-23 16:00:00 VIX=19.85 | Regime: BULL
+2023-01-23 16:00:00 SCREENING: Found 36 stocks with a ready IV indicator.
+2023-01-23 16:00:00 IV_CHANGE: AMD: Current IV 0.5051 - Previous IV 0.5005 = Increase 0.0045
+2023-01-23 16:00:00 IV_CHANGE: DIS: Current IV 0.3666 - Previous IV 0.3635 = Increase 0.0031
+2023-01-23 16:00:00 IV_CHANGE: EEM: Current IV 0.1722 - Previous IV 0.1707 = Increase 0.0015
+2023-01-23 16:00:00 IV_CHANGE: GOOGL: Current IV 0.3570 - Previous IV 0.3559 = Increase 0.0011
+2023-01-23 16:00:00 IV_CHANGE: JPM: Current IV 0.2172 - Previous IV 0.2170 = Increase 0.0002
+2023-01-23 16:00:00 IV_CHANGE: LQD: Current IV 0.0907 - Previous IV 0.0881 = Increase 0.0027
+2023-01-23 16:00:00 IV_CHANGE: MSFT: Current IV 0.2961 - Previous IV 0.2953 = Increase 0.0008
+2023-01-23 16:00:00 IV_CHANGE: NVDA: Current IV 0.4700 - Previous IV 0.4687 = Increase 0.0013
+2023-01-23 16:00:00 IV_CHANGE: TLT: Current IV 0.1709 - Previous IV 0.1678 = Increase 0.0031
+2023-01-23 16:00:00 IV_CHANGE: TQQQ: Current IV 0.6606 - Previous IV 0.6530 = Increase 0.0076
+2023-01-23 16:00:00 IV_CHANGE: TSLA: Current IV 0.6739 - Previous IV 0.6668 = Increase 0.0071
+2023-01-23 16:00:00 IV_CHANGE: ENPH: Current IV 0.7082 - Previous IV 0.7079 = Increase 0.0003
+2023-01-23 16:00:00 IV_CHANGE: JNJ: Current IV 0.1602 - Previous IV 0.1571 = Increase 0.0030
+2023-01-23 16:00:00 SCREENING: Found 13 stocks with an IV increase since last screening.
+2023-01-23 16:00:00 SCREENING: 7 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2023-01-23 16:00:00 Ranking candidates by IV increase.
+2023-01-23 16:15:00 VIX=19.80 | Regime: BULL
+2023-01-23 16:15:00 SCREENING: Found 36 stocks with a ready IV indicator.
+2023-01-23 16:15:00 SCREENING: Found 0 stocks with an IV increase since last screening.
+2023-01-23 16:15:00 SCREENING: 0 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2023-01-23 16:15:00 No candidates passed all filters. Skipping this screening cycle.
+2023-01-26 16:15:00 ⚠️ Skipping timeout check for order 47: can't subtract offset-naive and offset-aware datet
+2023-01-30 10:00:00 VIX=18.50 | Regime: BULL
+2023-01-30 10:00:00 SCREENING: Found 45 stocks with a ready IV indicator.
+2023-01-30 10:00:00 IV_CHANGE: AAPL: Current IV 0.3262 - Previous IV 0.3045 = Increase 0.0217
+2023-01-30 10:00:00 IV_CHANGE: AMD: Current IV 0.5512 - Previous IV 0.5051 = Increase 0.0462
+2023-01-30 10:00:00 IV_CHANGE: AMZN: Current IV 0.5288 - Previous IV 0.4687 = Increase 0.0600
+2023-01-30 10:00:00 IV_CHANGE: BABA: Current IV 0.4908 - Previous IV 0.4519 = Increase 0.0389
+2023-01-30 10:00:00 IV_CHANGE: EEM: Current IV 0.1822 - Previous IV 0.1722 = Increase 0.0101
+2023-01-30 10:00:00 IV_CHANGE: EFA: Current IV 0.1542 - Previous IV 0.1475 = Increase 0.0066
+2023-01-30 10:00:00 IV_CHANGE: GOOG: Current IV 0.3924 - Previous IV 0.3627 = Increase 0.0297
+2023-01-30 10:00:00 IV_CHANGE: GOOGL: Current IV 0.3908 - Previous IV 0.3570 = Increase 0.0338
+2023-01-30 10:00:00 IV_CHANGE: IWM: Current IV 0.2074 - Previous IV 0.2070 = Increase 0.0004
+2023-01-30 10:00:00 IV_CHANGE: META: Current IV 0.5975 - Previous IV 0.5533 = Increase 0.0442
+2023-01-30 10:00:00 IV_CHANGE: NVDA: Current IV 0.4880 - Previous IV 0.4700 = Increase 0.0180
+2023-01-30 10:00:00 IV_CHANGE: QQQ: Current IV 0.2457 - Previous IV 0.2260 = Increase 0.0197
+2023-01-30 10:00:00 IV_CHANGE: SQQQ: Current IV 0.7443 - Previous IV 0.6768 = Increase 0.0674
+2023-01-30 10:00:00 IV_CHANGE: TQQQ: Current IV 0.7292 - Previous IV 0.6606 = Increase 0.0686
+2023-01-30 10:00:00 IV_CHANGE: TSLA: Current IV 0.7511 - Previous IV 0.6739 = Increase 0.0771
+2023-01-30 10:00:00 IV_CHANGE: XLF: Current IV 0.1669 - Previous IV 0.0000 = Increase 0.1669
+2023-01-30 10:00:00 IV_CHANGE: XOM: Current IV 0.2502 - Previous IV 0.2380 = Increase 0.0122
+2023-01-30 10:00:00 IV_CHANGE: ENPH: Current IV 0.7370 - Previous IV 0.7082 = Increase 0.0288
+2023-01-30 10:00:00 IV_CHANGE: CRM: Current IV 0.3487 - Previous IV 0.3260 = Increase 0.0228
+2023-01-30 10:00:00 IV_CHANGE: GS: Current IV 0.2287 - Previous IV 0.2257 = Increase 0.0030
+2023-01-30 10:00:00 SCREENING: Found 20 stocks with an IV increase since last screening.
+2023-01-30 10:00:00 SCREENING: 11 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2023-01-30 10:00:00 Ranking candidates by IV increase.
+2023-01-30 10:00:00 [BUY] SQQQ: Current allocation 155.04%. Adding new 2% position.
+2023-01-30 10:00:00 [BUY] META: Current allocation 157.03%. Adding new 2% position.
+2023-01-30 11:00:00 VIX=18.50 | Regime: BULL
+2023-01-30 11:00:00 SCREENING: Found 45 stocks with a ready IV indicator.
+2023-01-30 11:00:00 IV_CHANGE: AAPL: Current IV 0.3290 - Previous IV 0.3262 = Increase 0.0028
+2023-01-30 11:00:00 IV_CHANGE: AMD: Current IV 0.5580 - Previous IV 0.5512 = Increase 0.0068
+2023-01-30 11:00:00 IV_CHANGE: AMZN: Current IV 0.5315 - Previous IV 0.5288 = Increase 0.0027
+2023-01-30 11:00:00 IV_CHANGE: CVX: Current IV 0.2250 - Previous IV 0.2242 = Increase 0.0009
+2023-01-30 11:00:00 IV_CHANGE: GOOG: Current IV 0.3934 - Previous IV 0.3924 = Increase 0.0010
+2023-01-30 11:00:00 IV_CHANGE: GOOGL: Current IV 0.3921 - Previous IV 0.3908 = Increase 0.0013
+2023-01-30 11:00:00 IV_CHANGE: IWM: Current IV 0.2114 - Previous IV 0.2074 = Increase 0.0040
+2023-01-30 11:00:00 IV_CHANGE: MSFT: Current IV 0.2455 - Previous IV 0.2435 = Increase 0.0020
+2023-01-30 11:00:00 IV_CHANGE: NVDA: Current IV 0.4926 - Previous IV 0.4880 = Increase 0.0046
+2023-01-30 11:00:00 IV_CHANGE: QQQ: Current IV 0.2503 - Previous IV 0.2457 = Increase 0.0046
+2023-01-30 11:00:00 IV_CHANGE: SQQQ: Current IV 0.7598 - Previous IV 0.7443 = Increase 0.0155
+2023-01-30 11:00:00 IV_CHANGE: TQQQ: Current IV 0.7469 - Previous IV 0.7292 = Increase 0.0176
+2023-01-30 11:00:00 IV_CHANGE: SOXL: Current IV 0.9686 - Previous IV 0.9624 = Increase 0.0062
+2023-01-30 11:00:00 IV_CHANGE: V: Current IV 0.1903 - Previous IV 0.1882 = Increase 0.0021
+2023-01-30 11:00:00 IV_CHANGE: XLI: Current IV 0.1929 - Previous IV 0.1847 = Increase 0.0083
+2023-01-30 11:00:00 IV_CHANGE: ARKK: Current IV 0.4959 - Previous IV 0.4870 = Increase 0.0089
+2023-01-30 11:00:00 SCREENING: Found 16 stocks with an IV increase since last screening.
+2023-01-30 11:00:00 SCREENING: 11 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2023-01-30 11:00:00 Ranking candidates by IV increase.
+2023-01-30 12:00:00 VIX=18.50 | Regime: BULL
+2023-01-30 12:00:00 SCREENING: Found 45 stocks with a ready IV indicator.
+2023-01-30 12:00:00 IV_CHANGE: CVX: Current IV 0.2295 - Previous IV 0.2250 = Increase 0.0044
+2023-01-30 12:00:00 IV_CHANGE: IWM: Current IV 0.2119 - Previous IV 0.2114 = Increase 0.0004
+2023-01-30 12:00:00 IV_CHANGE: META: Current IV 0.5961 - Previous IV 0.5947 = Increase 0.0014
+2023-01-30 12:00:00 IV_CHANGE: XLE: Current IV 0.2676 - Previous IV 0.2665 = Increase 0.0011
+2023-01-30 12:00:00 IV_CHANGE: XOM: Current IV 0.2515 - Previous IV 0.2501 = Increase 0.0014
+2023-01-30 12:00:00 IV_CHANGE: V: Current IV 0.1970 - Previous IV 0.1903 = Increase 0.0068
+2023-01-30 12:00:00 IV_CHANGE: SCHW: Current IV 0.2455 - Previous IV 0.2417 = Increase 0.0037
+2023-01-30 12:00:00 IV_CHANGE: COIN: Current IV 0.9432 - Previous IV 0.9412 = Increase 0.0020
+2023-01-30 12:00:00 IV_CHANGE: RIVN: Current IV 0.8425 - Previous IV 0.8323 = Increase 0.0103
+2023-01-30 12:00:00 SCREENING: Found 9 stocks with an IV increase since last screening.
+2023-01-30 12:00:00 SCREENING: 6 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2023-01-30 12:00:00 Ranking candidates by IV increase.
+2023-01-30 13:00:00 VIX=18.50 | Regime: BULL
+2023-01-30 13:00:00 SCREENING: Found 45 stocks with a ready IV indicator.
+2023-01-30 13:00:00 IV_CHANGE: AAPL: Current IV 0.3310 - Previous IV 0.3271 = Increase 0.0039
+2023-01-30 13:00:00 IV_CHANGE: AMD: Current IV 0.5588 - Previous IV 0.5514 = Increase 0.0075
+2023-01-30 13:00:00 IV_CHANGE: AMZN: Current IV 0.5258 - Previous IV 0.5251 = Increase 0.0007
+2023-01-30 13:00:00 IV_CHANGE: EEM: Current IV 0.1787 - Previous IV 0.1736 = Increase 0.0051
+2023-01-30 13:00:00 IV_CHANGE: GOOG: Current IV 0.3914 - Previous IV 0.3905 = Increase 0.0009
+2023-01-30 13:00:00 IV_CHANGE: GOOGL: Current IV 0.3921 - Previous IV 0.3902 = Increase 0.0020
+2023-01-30 13:00:00 IV_CHANGE: HYG: Current IV 0.0604 - Previous IV 0.0601 = Increase 0.0003
+2023-01-30 13:00:00 IV_CHANGE: IWM: Current IV 0.2144 - Previous IV 0.2119 = Increase 0.0025
+2023-01-30 13:00:00 IV_CHANGE: META: Current IV 0.5972 - Previous IV 0.5961 = Increase 0.0011
+2023-01-30 13:00:00 IV_CHANGE: NVDA: Current IV 0.4918 - Previous IV 0.4851 = Increase 0.0066
+2023-01-30 13:00:00 IV_CHANGE: QQQ: Current IV 0.2508 - Previous IV 0.2502 = Increase 0.0005
+2023-01-30 13:00:00 IV_CHANGE: SQQQ: Current IV 0.7556 - Previous IV 0.7528 = Increase 0.0028
+2023-01-30 13:00:00 IV_CHANGE: TQQQ: Current IV 0.7411 - Previous IV 0.7176 = Increase 0.0234
+2023-01-30 13:00:00 IV_CHANGE: XLE: Current IV 0.2689 - Previous IV 0.2676 = Increase 0.0013
+2023-01-30 13:00:00 IV_CHANGE: XOM: Current IV 0.2534 - Previous IV 0.2515 = Increase 0.0019
+2023-01-30 13:00:00 IV_CHANGE: SOXL: Current IV 0.9558 - Previous IV 0.9480 = Increase 0.0078
+2023-01-30 13:00:00 IV_CHANGE: V: Current IV 0.1981 - Previous IV 0.1970 = Increase 0.0010
+2023-01-30 13:00:00 IV_CHANGE: XLI: Current IV 0.1930 - Previous IV 0.1888 = Increase 0.0042
+2023-01-30 13:00:00 IV_CHANGE: ARKK: Current IV 0.4997 - Previous IV 0.4925 = Increase 0.0072
+2023-01-30 13:00:00 IV_CHANGE: AXP: Current IV 0.2576 - Previous IV 0.2498 = Increase 0.0079
+2023-01-30 13:00:00 IV_CHANGE: LCID: Current IV 1.3865 - Previous IV 1.3574 = Increase 0.0291
+2023-01-30 13:00:00 SCREENING: Found 21 stocks with an IV increase since last screening.
+2023-01-30 13:00:00 SCREENING: 12 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2023-01-30 13:00:00 Ranking candidates by IV increase.
+2023-01-30 14:00:00 VIX=18.50 | Regime: BULL
+2023-01-30 14:00:00 SCREENING: Found 45 stocks with a ready IV indicator.
+2023-01-30 14:00:00 IV_CHANGE: AMD: Current IV 0.5612 - Previous IV 0.5588 = Increase 0.0024
+2023-01-30 14:00:00 IV_CHANGE: AMZN: Current IV 0.5269 - Previous IV 0.5258 = Increase 0.0011
+2023-01-30 14:00:00 IV_CHANGE: BABA: Current IV 0.4749 - Previous IV 0.4732 = Increase 0.0017
+2023-01-30 14:00:00 IV_CHANGE: IWM: Current IV 0.2147 - Previous IV 0.2144 = Increase 0.0003
+2023-01-30 14:00:00 IV_CHANGE: MSFT: Current IV 0.2467 - Previous IV 0.2439 = Increase 0.0028
+2023-01-30 14:00:00 IV_CHANGE: SQQQ: Current IV 0.7576 - Previous IV 0.7556 = Increase 0.0020
+2023-01-30 14:00:00 IV_CHANGE: TQQQ: Current IV 0.7421 - Previous IV 0.7411 = Increase 0.0010
+2023-01-30 14:00:00 IV_CHANGE: SOXL: Current IV 0.9612 - Previous IV 0.9558 = Increase 0.0054
+2023-01-30 14:00:00 IV_CHANGE: V: Current IV 0.1991 - Previous IV 0.1981 = Increase 0.0011
+2023-01-30 14:00:00 IV_CHANGE: XLI: Current IV 0.1934 - Previous IV 0.1930 = Increase 0.0004
+2023-01-30 14:00:00 IV_CHANGE: SCHW: Current IV 0.2452 - Previous IV 0.2445 = Increase 0.0007
+2023-01-30 14:00:00 IV_CHANGE: RIVN: Current IV 0.8346 - Previous IV 0.8314 = Increase 0.0032
+2023-01-30 14:00:00 SCREENING: Found 12 stocks with an IV increase since last screening.
+2023-01-30 14:00:00 SCREENING: 7 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2023-01-30 14:00:00 Ranking candidates by IV increase.
+2023-01-30 15:00:00 VIX=18.50 | Regime: BULL
+2023-01-30 15:00:00 SCREENING: Found 45 stocks with a ready IV indicator.
+2023-01-30 15:00:00 IV_CHANGE: AAPL: Current IV 0.3381 - Previous IV 0.3294 = Increase 0.0087
+2023-01-30 15:00:00 IV_CHANGE: AMZN: Current IV 0.5308 - Previous IV 0.5269 = Increase 0.0038
+2023-01-30 15:00:00 IV_CHANGE: BABA: Current IV 0.4830 - Previous IV 0.4749 = Increase 0.0080
+2023-01-30 15:00:00 IV_CHANGE: CVX: Current IV 0.2278 - Previous IV 0.2259 = Increase 0.0019
+2023-01-30 15:00:00 IV_CHANGE: GOOG: Current IV 0.3921 - Previous IV 0.3878 = Increase 0.0043
+2023-01-30 15:00:00 IV_CHANGE: GOOGL: Current IV 0.3923 - Previous IV 0.3918 = Increase 0.0005
+2023-01-30 15:00:00 IV_CHANGE: HYG: Current IV 0.0632 - Previous IV 0.0586 = Increase 0.0047
+2023-01-30 15:00:00 IV_CHANGE: IWM: Current IV 0.2149 - Previous IV 0.2147 = Increase 0.0002
+2023-01-30 15:00:00 IV_CHANGE: META: Current IV 0.5977 - Previous IV 0.5925 = Increase 0.0052
+2023-01-30 15:00:00 IV_CHANGE: QQQ: Current IV 0.2504 - Previous IV 0.2498 = Increase 0.0006
+2023-01-30 15:00:00 IV_CHANGE: TQQQ: Current IV 0.7429 - Previous IV 0.7421 = Increase 0.0008
+2023-01-30 15:00:00 IV_CHANGE: XLE: Current IV 0.2696 - Previous IV 0.2676 = Increase 0.0019
+2023-01-30 15:00:00 IV_CHANGE: XOM: Current IV 0.2599 - Previous IV 0.2524 = Increase 0.0075
+2023-01-30 15:00:00 IV_CHANGE: CRM: Current IV 0.3438 - Previous IV 0.3413 = Increase 0.0025
+2023-01-30 15:00:00 IV_CHANGE: V: Current IV 0.1998 - Previous IV 0.1991 = Increase 0.0006
+2023-01-30 15:00:00 IV_CHANGE: XLI: Current IV 0.1942 - Previous IV 0.1934 = Increase 0.0008
+2023-01-30 15:00:00 IV_CHANGE: SCHW: Current IV 0.2472 - Previous IV 0.2452 = Increase 0.0020
+2023-01-30 15:00:00 IV_CHANGE: COIN: Current IV 0.9197 - Previous IV 0.9047 = Increase 0.0149
+2023-01-30 15:00:00 SCREENING: Found 18 stocks with an IV increase since last screening.
+2023-01-30 15:00:00 SCREENING: 12 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2023-01-30 15:00:00 Ranking candidates by IV increase.
+2023-01-30 16:00:00 VIX=18.50 | Regime: BULL
+2023-01-30 16:00:00 SCREENING: Found 45 stocks with a ready IV indicator.
+2023-01-30 16:00:00 IV_CHANGE: AAPL: Current IV 0.3382 - Previous IV 0.3381 = Increase 0.0001
+2023-01-30 16:00:00 IV_CHANGE: AMD: Current IV 0.5659 - Previous IV 0.5585 = Increase 0.0073
+2023-01-30 16:00:00 IV_CHANGE: BABA: Current IV 0.4876 - Previous IV 0.4830 = Increase 0.0047
+2023-01-30 16:00:00 IV_CHANGE: GOOG: Current IV 0.3958 - Previous IV 0.3921 = Increase 0.0037
+2023-01-30 16:00:00 IV_CHANGE: GOOGL: Current IV 0.3953 - Previous IV 0.3923 = Increase 0.0030
+2023-01-30 16:00:00 IV_CHANGE: IWM: Current IV 0.2164 - Previous IV 0.2149 = Increase 0.0015
+2023-01-30 16:00:00 IV_CHANGE: META: Current IV 0.5999 - Previous IV 0.5977 = Increase 0.0022
+2023-01-30 16:00:00 IV_CHANGE: MSFT: Current IV 0.2553 - Previous IV 0.2459 = Increase 0.0094
+2023-01-30 16:00:00 IV_CHANGE: NVDA: Current IV 0.5009 - Previous IV 0.4835 = Increase 0.0174
+2023-01-30 16:00:00 IV_CHANGE: SQQQ: Current IV 0.7578 - Previous IV 0.7558 = Increase 0.0020
+2023-01-30 16:00:00 IV_CHANGE: XLE: Current IV 0.2761 - Previous IV 0.2696 = Increase 0.0065
+2023-01-30 16:00:00 IV_CHANGE: XLI: Current IV 0.1990 - Previous IV 0.1942 = Increase 0.0047
+2023-01-30 16:00:00 IV_CHANGE: SCHW: Current IV 0.2503 - Previous IV 0.2472 = Increase 0.0031
+2023-01-30 16:00:00 IV_CHANGE: ARKK: Current IV 0.4948 - Previous IV 0.4878 = Increase 0.0070
+2023-01-30 16:00:00 IV_CHANGE: AXP: Current IV 0.2529 - Previous IV 0.2527 = Increase 0.0002
+2023-01-30 16:00:00 IV_CHANGE: RIVN: Current IV 0.8213 - Previous IV 0.8107 = Increase 0.0107
+2023-01-30 16:00:00 SCREENING: Found 16 stocks with an IV increase since last screening.
+2023-01-30 16:00:00 SCREENING: 8 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2023-01-30 16:00:00 Ranking candidates by IV increase.
+2023-01-30 16:15:00 VIX=19.94 | Regime: BULL
+2023-01-30 16:15:00 SCREENING: Found 45 stocks with a ready IV indicator.
+2023-01-30 16:15:00 SCREENING: Found 0 stocks with an IV increase since last screening.
+2023-01-30 16:15:00 SCREENING: 0 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2023-01-30 16:15:00 No candidates passed all filters. Skipping this screening cycle.
+2023-01-31 00:00:00 UNIVERSE: Passed price filter: 8446
+2023-01-31 00:00:00 UNIVERSE: Passed volume filter (>500k): 3104
+2023-01-31 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-01-31 00:00:00 UNIVERSE: Passed price filter: 8462
+2023-01-31 00:00:00 UNIVERSE: Passed volume filter (>500k): 2892
+2023-01-31 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-01-31 00:00:00 UNIVERSE: Passed price filter: 8431
+2023-01-31 00:00:00 UNIVERSE: Passed volume filter (>500k): 2967
+2023-01-31 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-01-31 00:00:00 UNIVERSE: Passed price filter: 8418
+2023-01-31 00:00:00 UNIVERSE: Passed volume filter (>500k): 2821
+2023-01-31 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-01-31 00:00:00 UNIVERSE: Passed price filter: 8396
+2023-01-31 00:00:00 UNIVERSE: Passed volume filter (>500k): 2851
+2023-01-31 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-01-31 00:00:00 UNIVERSE: Passed price filter: 8418
+2023-01-31 00:00:00 UNIVERSE: Passed volume filter (>500k): 2796
+2023-01-31 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-02-06 10:00:00 VIX=18.33 | Regime: BULL
+2023-02-06 10:00:00 SCREENING: Found 44 stocks with a ready IV indicator.
+2023-02-06 10:00:00 IV_CHANGE: EEM: Current IV 0.1887 - Previous IV 0.1747 = Increase 0.0141
+2023-02-06 10:00:00 IV_CHANGE: HYG: Current IV 0.0885 - Previous IV 0.0613 = Increase 0.0272
+2023-02-06 10:00:00 IV_CHANGE: LQD: Current IV 0.0968 - Previous IV 0.0834 = Increase 0.0135
+2023-02-06 10:00:00 IV_CHANGE: QQQ: Current IV 0.2800 - Previous IV 0.2497 = Increase 0.0303
+2023-02-06 10:00:00 IV_CHANGE: TLT: Current IV 0.1541 - Previous IV 0.1473 = Increase 0.0067
+2023-02-06 10:00:00 IV_CHANGE: TQQQ: Current IV 0.7418 - Previous IV 0.7318 = Increase 0.0099
+2023-02-06 10:00:00 IV_CHANGE: TSLA: Current IV 0.7215 - Previous IV 0.6534 = Increase 0.0680
+2023-02-06 10:00:00 IV_CHANGE: FXI: Current IV 0.2879 - Previous IV 0.2750 = Increase 0.0129
+2023-02-06 10:00:00 IV_CHANGE: BA: Current IV 0.2871 - Previous IV 0.2813 = Increase 0.0057
+2023-02-06 10:00:00 IV_CHANGE: ARKK: Current IV 0.5303 - Previous IV 0.4948 = Increase 0.0355
+2023-02-06 10:00:00 IV_CHANGE: COIN: Current IV 1.1560 - Previous IV 0.8937 = Increase 0.2623
+2023-02-06 10:00:00 IV_CHANGE: INTC: Current IV 0.3422 - Previous IV 0.2475 = Increase 0.0947
+2023-02-06 10:00:00 SCREENING: Found 12 stocks with an IV increase since last screening.
+2023-02-06 10:00:00 SCREENING: 4 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2023-02-06 10:00:00 Ranking candidates by IV increase.
+2023-02-06 10:00:00 [BUY] TSLA: Current allocation 153.68%. Adding new 2% position.
+2023-02-06 11:00:00 VIX=18.33 | Regime: BULL
+2023-02-06 11:00:00 SCREENING: Found 44 stocks with a ready IV indicator.
+2023-02-06 11:00:00 IV_CHANGE: LQD: Current IV 0.1022 - Previous IV 0.0968 = Increase 0.0054
+2023-02-06 11:00:00 IV_CHANGE: GLD: Current IV 0.1362 - Previous IV 0.1323 = Increase 0.0039
+2023-02-06 11:00:00 SCREENING: Found 2 stocks with an IV increase since last screening.
+2023-02-06 11:00:00 SCREENING: 1 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2023-02-06 11:00:00 Ranking candidates by IV increase.
+2023-02-06 11:00:00 [BUY] GLD: Current allocation 155.57%. Adding new 2% position.
+2023-02-06 12:00:00 VIX=18.33 | Regime: BULL
+2023-02-06 12:00:00 SCREENING: Found 44 stocks with a ready IV indicator.
+2023-02-06 12:00:00 IV_CHANGE: AMD: Current IV 0.4288 - Previous IV 0.4264 = Increase 0.0023
+2023-02-06 12:00:00 IV_CHANGE: BABA: Current IV 0.4244 - Previous IV 0.4131 = Increase 0.0112
+2023-02-06 12:00:00 IV_CHANGE: EEM: Current IV 0.1895 - Previous IV 0.1882 = Increase 0.0013
+2023-02-06 12:00:00 IV_CHANGE: GOOG: Current IV 0.2983 - Previous IV 0.2965 = Increase 0.0018
+2023-02-06 12:00:00 IV_CHANGE: GOOGL: Current IV 0.2969 - Previous IV 0.2965 = Increase 0.0004
+2023-02-06 12:00:00 IV_CHANGE: HYG: Current IV 0.0905 - Previous IV 0.0883 = Increase 0.0022
+2023-02-06 12:00:00 IV_CHANGE: IWM: Current IV 0.2132 - Previous IV 0.2064 = Increase 0.0068
+2023-02-06 12:00:00 IV_CHANGE: NVDA: Current IV 0.4751 - Previous IV 0.4716 = Increase 0.0035
+2023-02-06 12:00:00 IV_CHANGE: QQQ: Current IV 0.2773 - Previous IV 0.2743 = Increase 0.0030
+2023-02-06 12:00:00 IV_CHANGE: SQQQ: Current IV 0.7374 - Previous IV 0.7333 = Increase 0.0041
+2023-02-06 12:00:00 IV_CHANGE: TLT: Current IV 0.1536 - Previous IV 0.1524 = Increase 0.0012
+2023-02-06 12:00:00 IV_CHANGE: TQQQ: Current IV 0.7331 - Previous IV 0.7309 = Increase 0.0022
+2023-02-06 12:00:00 IV_CHANGE: DIA: Current IV 0.1424 - Previous IV 0.1396 = Increase 0.0028
+2023-02-06 12:00:00 IV_CHANGE: QCOM: Current IV 0.3168 - Previous IV 0.3123 = Increase 0.0045
+2023-02-06 12:00:00 IV_CHANGE: LLY: Current IV 0.1982 - Previous IV 0.1964 = Increase 0.0018
+2023-02-06 12:00:00 SCREENING: Found 15 stocks with an IV increase since last screening.
+2023-02-06 12:00:00 SCREENING: 9 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2023-02-06 12:00:00 Ranking candidates by IV increase.
+2023-02-06 12:00:00 [BUY] SQQQ: Current allocation 157.66%. Adding new 2% position.
+2023-02-06 13:00:00 VIX=18.33 | Regime: BULL
+2023-02-06 13:00:00 SCREENING: Found 44 stocks with a ready IV indicator.
+2023-02-06 13:00:00 IV_CHANGE: AMD: Current IV 0.4298 - Previous IV 0.4288 = Increase 0.0010
+2023-02-06 13:00:00 IV_CHANGE: GOOG: Current IV 0.3065 - Previous IV 0.2983 = Increase 0.0082
+2023-02-06 13:00:00 IV_CHANGE: GOOGL: Current IV 0.3055 - Previous IV 0.2969 = Increase 0.0086
+2023-02-06 13:00:00 IV_CHANGE: HYG: Current IV 0.0906 - Previous IV 0.0905 = Increase 0.0001
+2023-02-06 13:00:00 IV_CHANGE: NVDA: Current IV 0.4792 - Previous IV 0.4751 = Increase 0.0042
+2023-02-06 13:00:00 IV_CHANGE: TLT: Current IV 0.1603 - Previous IV 0.1536 = Increase 0.0067
+2023-02-06 13:00:00 IV_CHANGE: DIA: Current IV 0.1426 - Previous IV 0.1424 = Increase 0.0003
+2023-02-06 13:00:00 IV_CHANGE: GLD: Current IV 0.1355 - Previous IV 0.1345 = Increase 0.0011
+2023-02-06 13:00:00 IV_CHANGE: ARKK: Current IV 0.5255 - Previous IV 0.5245 = Increase 0.0009
+2023-02-06 13:00:00 IV_CHANGE: INTC: Current IV 0.3375 - Previous IV 0.3306 = Increase 0.0068
+2023-02-06 13:00:00 SCREENING: Found 10 stocks with an IV increase since last screening.
+2023-02-06 13:00:00 SCREENING: 6 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2023-02-06 13:00:00 Ranking candidates by IV increase.
+2023-02-06 14:00:00 VIX=18.33 | Regime: BULL
+2023-02-06 14:00:00 SCREENING: Found 44 stocks with a ready IV indicator.
+2023-02-06 14:00:00 IV_CHANGE: AAPL: Current IV 0.2599 - Previous IV 0.2566 = Increase 0.0034
+2023-02-06 14:00:00 IV_CHANGE: AMZN: Current IV 0.3701 - Previous IV 0.3676 = Increase 0.0025
+2023-02-06 14:00:00 IV_CHANGE: BABA: Current IV 0.4262 - Previous IV 0.4174 = Increase 0.0088
+2023-02-06 14:00:00 IV_CHANGE: LQD: Current IV 0.1036 - Previous IV 0.1015 = Increase 0.0021
+2023-02-06 14:00:00 IV_CHANGE: MSFT: Current IV 0.2419 - Previous IV 0.2406 = Increase 0.0012
+2023-02-06 14:00:00 IV_CHANGE: QCOM: Current IV 0.3175 - Previous IV 0.3140 = Increase 0.0035
+2023-02-06 14:00:00 IV_CHANGE: LLY: Current IV 0.1972 - Previous IV 0.1945 = Increase 0.0027
+2023-02-06 14:00:00 IV_CHANGE: COIN: Current IV 1.1003 - Previous IV 1.0947 = Increase 0.0056
+2023-02-06 14:00:00 IV_CHANGE: BILL: Current IV 0.6284 - Previous IV 0.6248 = Increase 0.0036
+2023-02-06 14:00:00 IV_CHANGE: F: Current IV 0.2636 - Previous IV 0.2619 = Increase 0.0016
+2023-02-06 14:00:00 SCREENING: Found 10 stocks with an IV increase since last screening.
+2023-02-06 14:00:00 SCREENING: 6 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2023-02-06 14:00:00 Ranking candidates by IV increase.
+2023-02-06 15:00:00 VIX=18.33 | Regime: BULL
+2023-02-06 15:00:00 SCREENING: Found 44 stocks with a ready IV indicator.
+2023-02-06 15:00:00 IV_CHANGE: AAPL: Current IV 0.2630 - Previous IV 0.2599 = Increase 0.0031
+2023-02-06 15:00:00 IV_CHANGE: AMZN: Current IV 0.3748 - Previous IV 0.3701 = Increase 0.0047
+2023-02-06 15:00:00 IV_CHANGE: GOOG: Current IV 0.3090 - Previous IV 0.3037 = Increase 0.0052
+2023-02-06 15:00:00 IV_CHANGE: GOOGL: Current IV 0.3080 - Previous IV 0.3020 = Increase 0.0060
+2023-02-06 15:00:00 IV_CHANGE: HYG: Current IV 0.0932 - Previous IV 0.0896 = Increase 0.0037
+2023-02-06 15:00:00 IV_CHANGE: LQD: Current IV 0.1050 - Previous IV 0.1036 = Increase 0.0014
+2023-02-06 15:00:00 IV_CHANGE: MSFT: Current IV 0.2448 - Previous IV 0.2419 = Increase 0.0030
+2023-02-06 15:00:00 IV_CHANGE: NVDA: Current IV 0.4766 - Previous IV 0.4736 = Increase 0.0030
+2023-02-06 15:00:00 IV_CHANGE: GLD: Current IV 0.1353 - Previous IV 0.1350 = Increase 0.0002
+2023-02-06 15:00:00 IV_CHANGE: LLY: Current IV 0.2000 - Previous IV 0.1972 = Increase 0.0028
+2023-02-06 15:00:00 IV_CHANGE: F: Current IV 0.2664 - Previous IV 0.2636 = Increase 0.0028
+2023-02-06 15:00:00 SCREENING: Found 11 stocks with an IV increase since last screening.
+2023-02-06 15:00:00 SCREENING: 6 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2023-02-06 15:00:00 Ranking candidates by IV increase.
+2023-02-06 16:00:00 VIX=18.33 | Regime: BULL
+2023-02-06 16:00:00 SCREENING: Found 44 stocks with a ready IV indicator.
+2023-02-06 16:00:00 IV_CHANGE: AAPL: Current IV 0.2633 - Previous IV 0.2630 = Increase 0.0003
+2023-02-06 16:00:00 IV_CHANGE: AMD: Current IV 0.4264 - Previous IV 0.4225 = Increase 0.0039
+2023-02-06 16:00:00 IV_CHANGE: BABA: Current IV 0.4458 - Previous IV 0.4248 = Increase 0.0210
+2023-02-06 16:00:00 IV_CHANGE: EEM: Current IV 0.1771 - Previous IV 0.1753 = Increase 0.0018
+2023-02-06 16:00:00 IV_CHANGE: GOOG: Current IV 0.3324 - Previous IV 0.3090 = Increase 0.0234
+2023-02-06 16:00:00 IV_CHANGE: MSFT: Current IV 0.2450 - Previous IV 0.2448 = Increase 0.0001
+2023-02-06 16:00:00 IV_CHANGE: NVDA: Current IV 0.4771 - Previous IV 0.4766 = Increase 0.0005
+2023-02-06 16:00:00 IV_CHANGE: TLT: Current IV 0.1555 - Previous IV 0.1550 = Increase 0.0005
+2023-02-06 16:00:00 IV_CHANGE: TQQQ: Current IV 0.7280 - Previous IV 0.7191 = Increase 0.0089
+2023-02-06 16:00:00 IV_CHANGE: TSLA: Current IV 0.6645 - Previous IV 0.6606 = Increase 0.0039
+2023-02-06 16:00:00 IV_CHANGE: XLE: Current IV 0.2647 - Previous IV 0.2585 = Increase 0.0062
+2023-02-06 16:00:00 IV_CHANGE: XOM: Current IV 0.2126 - Previous IV 0.2097 = Increase 0.0028
+2023-02-06 16:00:00 IV_CHANGE: DIA: Current IV 0.1429 - Previous IV 0.1365 = Increase 0.0063
+2023-02-06 16:00:00 IV_CHANGE: ARKK: Current IV 0.5231 - Previous IV 0.5135 = Increase 0.0097
+2023-02-06 16:00:00 IV_CHANGE: INTC: Current IV 0.3250 - Previous IV 0.3233 = Increase 0.0018
+2023-02-06 16:00:00 IV_CHANGE: AI: Current IV 1.7899 - Previous IV 1.6882 = Increase 0.1017
+2023-02-06 16:00:00 IV_CHANGE: BILL: Current IV 0.6296 - Previous IV 0.6184 = Increase 0.0113
+2023-02-06 16:00:00 SCREENING: Found 17 stocks with an IV increase since last screening.
+2023-02-06 16:00:00 SCREENING: 10 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2023-02-06 16:00:00 Ranking candidates by IV increase.
+2023-02-06 16:15:00 VIX=19.44 | Regime: BULL
+2023-02-06 16:15:00 SCREENING: Found 44 stocks with a ready IV indicator.
+2023-02-06 16:15:00 SCREENING: Found 0 stocks with an IV increase since last screening.
+2023-02-06 16:15:00 SCREENING: 0 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2023-02-06 16:15:00 No candidates passed all filters. Skipping this screening cycle.
+2023-02-08 00:00:00 UNIVERSE: Passed price filter: 8419
+2023-02-08 00:00:00 UNIVERSE: Passed volume filter (>500k): 2733
+2023-02-08 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-02-08 00:00:00 UNIVERSE: Passed price filter: 8396
+2023-02-08 00:00:00 UNIVERSE: Passed volume filter (>500k): 2834
+2023-02-08 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-02-08 00:00:00 UNIVERSE: Passed price filter: 8421
+2023-02-08 00:00:00 UNIVERSE: Passed volume filter (>500k): 2831
+2023-02-08 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-02-08 00:00:00 UNIVERSE: Passed price filter: 8406
+2023-02-08 00:00:00 UNIVERSE: Passed volume filter (>500k): 2898
+2023-02-08 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-02-08 00:00:00 UNIVERSE: Passed price filter: 8383
+2023-02-08 00:00:00 UNIVERSE: Passed volume filter (>500k): 2841
+2023-02-08 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-02-08 00:00:00 UNIVERSE: Passed price filter: 8388
+2023-02-08 00:00:00 UNIVERSE: Passed volume filter (>500k): 2944
+2023-02-08 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-02-13 10:00:00 Quarterly Rebalancing: Setting SPY to 80%, XLU to 20%
+2023-02-13 10:00:00 VIX=20.53 | Regime: BEAR
+2023-02-13 10:00:00 Market regime is BEAR. Pausing new trades.
+2023-02-13 11:00:00 VIX=20.53 | Regime: BEAR
+2023-02-13 11:00:00 Market regime is BEAR. Pausing new trades.
+2023-02-13 12:00:00 VIX=20.53 | Regime: BEAR
+2023-02-13 12:00:00 Market regime is BEAR. Pausing new trades.
+2023-02-13 13:00:00 VIX=20.53 | Regime: BEAR
+2023-02-13 13:00:00 Market regime is BEAR. Pausing new trades.
+2023-02-13 14:00:00 VIX=20.53 | Regime: BEAR
+2023-02-13 14:00:00 Market regime is BEAR. Pausing new trades.
+2023-02-13 15:00:00 VIX=20.53 | Regime: BEAR
+2023-02-13 15:00:00 Market regime is BEAR. Pausing new trades.
+2023-02-13 16:00:00 VIX=20.53 | Regime: BEAR
+2023-02-13 16:00:00 Market regime is BEAR. Pausing new trades.
+2023-02-13 16:15:00 VIX=20.33 | Regime: BULL
+2023-02-13 16:15:00 SCREENING: Found 41 stocks with a ready IV indicator.
+2023-02-13 16:15:00 IV_CHANGE: AAPL: Current IV 0.3021 - Previous IV 0.2633 = Increase 0.0388
+2023-02-13 16:15:00 IV_CHANGE: AMD: Current IV 0.4527 - Previous IV 0.4264 = Increase 0.0262
+2023-02-13 16:15:00 IV_CHANGE: AMZN: Current IV 0.3989 - Previous IV 0.3646 = Increase 0.0343
+2023-02-13 16:15:00 IV_CHANGE: EEM: Current IV 0.2308 - Previous IV 0.1771 = Increase 0.0537
+2023-02-13 16:15:00 IV_CHANGE: EFA: Current IV 0.1430 - Previous IV 0.1328 = Increase 0.0102
+2023-02-13 16:15:00 IV_CHANGE: GOOG: Current IV 0.3437 - Previous IV 0.3324 = Increase 0.0114
+2023-02-13 16:15:00 IV_CHANGE: GOOGL: Current IV 0.3592 - Previous IV 0.3017 = Increase 0.0574
+2023-02-13 16:15:00 IV_CHANGE: HYG: Current IV 0.1279 - Previous IV 0.0914 = Increase 0.0366
+2023-02-13 16:15:00 IV_CHANGE: IWM: Current IV 0.2412 - Previous IV 0.2085 = Increase 0.0327
+2023-02-13 16:15:00 IV_CHANGE: LQD: Current IV 0.1198 - Previous IV 0.1032 = Increase 0.0166
+2023-02-13 16:15:00 IV_CHANGE: NFLX: Current IV 0.3929 - Previous IV 0.3774 = Increase 0.0155
+2023-02-13 16:15:00 IV_CHANGE: NVDA: Current IV 0.5223 - Previous IV 0.4771 = Increase 0.0452
+2023-02-13 16:15:00 IV_CHANGE: QQQ: Current IV 0.3893 - Previous IV 0.2705 = Increase 0.1188
+2023-02-13 16:15:00 IV_CHANGE: SQQQ: Current IV 0.8299 - Previous IV 0.7270 = Increase 0.1029
+2023-02-13 16:15:00 IV_CHANGE: TLT: Current IV 0.1801 - Previous IV 0.1555 = Increase 0.0246
+2023-02-13 16:15:00 IV_CHANGE: TQQQ: Current IV 0.7825 - Previous IV 0.7280 = Increase 0.0545
+2023-02-13 16:15:00 IV_CHANGE: XLF: Current IV 0.1637 - Previous IV 0.1519 = Increase 0.0118
+2023-02-13 16:15:00 IV_CHANGE: XOM: Current IV 0.2325 - Previous IV 0.2126 = Increase 0.0200
+2023-02-13 16:15:00 IV_CHANGE: ATVI: Current IV 0.1991 - Previous IV 0.1397 = Increase 0.0594
+2023-02-13 16:15:00 IV_CHANGE: ARKK: Current IV 0.5858 - Previous IV 0.5231 = Increase 0.0627
+2023-02-13 16:15:00 SCREENING: Found 20 stocks with an IV increase since last screening.
+2023-02-13 16:15:00 SCREENING: 0 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2023-02-13 16:15:00 No candidates passed all filters. Skipping this screening cycle.
+2023-02-16 00:00:00 UNIVERSE: Passed price filter: 8357
+2023-02-16 00:00:00 UNIVERSE: Passed volume filter (>500k): 2934
+2023-02-16 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-02-16 00:00:00 UNIVERSE: Passed price filter: 8363
+2023-02-16 00:00:00 UNIVERSE: Passed volume filter (>500k): 2882
+2023-02-16 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-02-16 00:00:00 UNIVERSE: Passed price filter: 8350
+2023-02-16 00:00:00 UNIVERSE: Passed volume filter (>500k): 2842
+2023-02-16 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-02-16 00:00:00 UNIVERSE: Passed price filter: 8359
+2023-02-16 00:00:00 UNIVERSE: Passed volume filter (>500k): 2794
+2023-02-16 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-02-16 00:00:00 UNIVERSE: Passed price filter: 8340
+2023-02-16 00:00:00 UNIVERSE: Passed volume filter (>500k): 3021
+2023-02-16 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-02-16 00:00:00 UNIVERSE: Passed price filter: 8322
+2023-02-16 00:00:00 UNIVERSE: Passed volume filter (>500k): 2954
+2023-02-16 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-02-25 00:00:00 UNIVERSE: Passed price filter: 8345
+2023-02-25 00:00:00 UNIVERSE: Passed volume filter (>500k): 2885
+2023-02-25 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-02-25 00:00:00 UNIVERSE: Passed price filter: 8318
+2023-02-25 00:00:00 UNIVERSE: Passed volume filter (>500k): 2864
+2023-02-25 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-02-25 00:00:00 UNIVERSE: Passed price filter: 8318
+2023-02-25 00:00:00 UNIVERSE: Passed volume filter (>500k): 2950
+2023-02-25 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-02-25 00:00:00 UNIVERSE: Passed price filter: 8292
+2023-02-25 00:00:00 UNIVERSE: Passed volume filter (>500k): 2922
+2023-02-25 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-02-25 00:00:00 UNIVERSE: Passed price filter: 8317
+2023-02-25 00:00:00 UNIVERSE: Passed volume filter (>500k): 2854
+2023-02-25 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-02-25 00:00:00 UNIVERSE: Passed price filter: 8290
+2023-02-25 00:00:00 UNIVERSE: Passed volume filter (>500k): 2955
+2023-02-25 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-02-27 10:00:00 VIX=21.67 | Regime: BEAR
+2023-02-27 10:00:00 Market regime is BEAR. Pausing new trades.
+2023-02-27 11:00:00 VIX=21.67 | Regime: BEAR
+2023-02-27 11:00:00 Market regime is BEAR. Pausing new trades.
+2023-02-27 12:00:00 VIX=21.67 | Regime: BEAR
+2023-02-27 12:00:00 Market regime is BEAR. Pausing new trades.
+2023-02-27 13:00:00 VIX=21.67 | Regime: BEAR
+2023-02-27 13:00:00 Market regime is BEAR. Pausing new trades.
+2023-02-27 14:00:00 VIX=21.67 | Regime: BEAR
+2023-02-27 14:00:00 Market regime is BEAR. Pausing new trades.
+2023-02-27 15:00:00 VIX=21.67 | Regime: BEAR
+2023-02-27 15:00:00 Market regime is BEAR. Pausing new trades.
+2023-02-27 16:00:00 VIX=21.67 | Regime: BEAR
+2023-02-27 16:00:00 Market regime is BEAR. Pausing new trades.
+2023-02-27 16:15:00 VIX=20.95 | Regime: BEAR
+2023-02-27 16:15:00 Market regime is BEAR. Pausing new trades.
+2023-03-06 10:00:00 VIX=18.48 | Regime: BULL
+2023-03-06 10:00:00 SCREENING: Found 42 stocks with a ready IV indicator.
+2023-03-06 10:00:00 IV_CHANGE: EEM: Current IV 0.1820 - Previous IV 0.1771 = Increase 0.0049
+2023-03-06 10:00:00 IV_CHANGE: EFA: Current IV 0.1491 - Previous IV 0.1328 = Increase 0.0164
+2023-03-06 10:00:00 IV_CHANGE: HD: Current IV 0.1588 - Previous IV 0.0000 = Increase 0.1588
+2023-03-06 10:00:00 IV_CHANGE: HYG: Current IV 0.1011 - Previous IV 0.0914 = Increase 0.0097
+2023-03-06 10:00:00 IV_CHANGE: LQD: Current IV 0.1202 - Previous IV 0.1032 = Increase 0.0169
+2023-03-06 10:00:00 IV_CHANGE: MSFT: Current IV 0.2498 - Previous IV 0.2450 = Increase 0.0049
+2023-03-06 10:00:00 IV_CHANGE: TLT: Current IV 0.1949 - Previous IV 0.1555 = Increase 0.0394
+2023-03-06 10:00:00 IV_CHANGE: XOM: Current IV 0.2470 - Previous IV 0.2126 = Increase 0.0345
+2023-03-06 10:00:00 IV_CHANGE: FXI: Current IV 0.3079 - Previous IV 0.2879 = Increase 0.0201
+2023-03-06 10:00:00 IV_CHANGE: ATVI: Current IV 0.1991 - Previous IV 0.1397 = Increase 0.0594
+2023-03-06 10:00:00 IV_CHANGE: BA: Current IV 0.2887 - Previous IV 0.2871 = Increase 0.0016
+2023-03-06 10:00:00 SCREENING: Found 11 stocks with an IV increase since last screening.
+2023-03-06 10:00:00 SCREENING: 4 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2023-03-06 10:00:00 Ranking candidates by IV increase.
+2023-03-06 11:00:00 VIX=18.48 | Regime: BULL
+2023-03-06 11:00:00 SCREENING: Found 42 stocks with a ready IV indicator.
+2023-03-06 11:00:00 IV_CHANGE: HYG: Current IV 0.1054 - Previous IV 0.1011 = Increase 0.0043
+2023-03-06 11:00:00 IV_CHANGE: LQD: Current IV 0.1248 - Previous IV 0.1202 = Increase 0.0047
+2023-03-06 11:00:00 IV_CHANGE: MSFT: Current IV 0.2537 - Previous IV 0.2498 = Increase 0.0039
+2023-03-06 11:00:00 IV_CHANGE: TLT: Current IV 0.1960 - Previous IV 0.1949 = Increase 0.0011
+2023-03-06 11:00:00 IV_CHANGE: V: Current IV 0.1745 - Previous IV 0.1710 = Increase 0.0034
+2023-03-06 11:00:00 IV_CHANGE: AI: Current IV 1.2017 - Previous IV 1.1944 = Increase 0.0073
+2023-03-06 11:00:00 SCREENING: Found 6 stocks with an IV increase since last screening.
+2023-03-06 11:00:00 SCREENING: 3 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2023-03-06 11:00:00 Ranking candidates by IV increase.
+2023-03-06 12:00:00 VIX=18.48 | Regime: BULL
+2023-03-06 12:00:00 SCREENING: Found 42 stocks with a ready IV indicator.
+2023-03-06 12:00:00 IV_CHANGE: NFLX: Current IV 0.3482 - Previous IV 0.3335 = Increase 0.0147
+2023-03-06 12:00:00 IV_CHANGE: TLT: Current IV 0.1963 - Previous IV 0.1960 = Increase 0.0003
+2023-03-06 12:00:00 IV_CHANGE: MRVL: Current IV 0.4185 - Previous IV 0.4172 = Increase 0.0013
+2023-03-06 12:00:00 IV_CHANGE: ZS: Current IV 0.4492 - Previous IV 0.4396 = Increase 0.0097
+2023-03-06 12:00:00 SCREENING: Found 4 stocks with an IV increase since last screening.
+2023-03-06 12:00:00 SCREENING: 2 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2023-03-06 12:00:00 Ranking candidates by IV increase.
+2023-03-06 13:00:00 VIX=18.48 | Regime: BULL
+2023-03-06 13:00:00 SCREENING: Found 42 stocks with a ready IV indicator.
+2023-03-06 13:00:00 IV_CHANGE: AMD: Current IV 0.4080 - Previous IV 0.4074 = Increase 0.0006
+2023-03-06 13:00:00 IV_CHANGE: AMZN: Current IV 0.3365 - Previous IV 0.3316 = Increase 0.0049
+2023-03-06 13:00:00 IV_CHANGE: BABA: Current IV 0.4277 - Previous IV 0.4269 = Increase 0.0008
+2023-03-06 13:00:00 IV_CHANGE: EFA: Current IV 0.1445 - Previous IV 0.1418 = Increase 0.0028
+2023-03-06 13:00:00 IV_CHANGE: GOOGL: Current IV 0.2807 - Previous IV 0.2796 = Increase 0.0011
+2023-03-06 13:00:00 IV_CHANGE: HYG: Current IV 0.1003 - Previous IV 0.0985 = Increase 0.0019
+2023-03-06 13:00:00 IV_CHANGE: IWM: Current IV 0.2004 - Previous IV 0.1953 = Increase 0.0051
+2023-03-06 13:00:00 IV_CHANGE: JPM: Current IV 0.1776 - Previous IV 0.1740 = Increase 0.0036
+2023-03-06 13:00:00 IV_CHANGE: LQD: Current IV 0.1239 - Previous IV 0.1233 = Increase 0.0006
+2023-03-06 13:00:00 IV_CHANGE: MSFT: Current IV 0.2578 - Previous IV 0.2525 = Increase 0.0053
+2023-03-06 13:00:00 IV_CHANGE: NVDA: Current IV 0.4311 - Previous IV 0.4280 = Increase 0.0031
+2023-03-06 13:00:00 IV_CHANGE: QQQ: Current IV 0.2452 - Previous IV 0.2435 = Increase 0.0017
+2023-03-06 13:00:00 IV_CHANGE: SQQQ: Current IV 0.6708 - Previous IV 0.6608 = Increase 0.0100
+2023-03-06 13:00:00 IV_CHANGE: TQQQ: Current IV 0.6618 - Previous IV 0.6520 = Increase 0.0098
+2023-03-06 13:00:00 IV_CHANGE: TSLA: Current IV 0.5523 - Previous IV 0.5461 = Increase 0.0062
+2023-03-06 13:00:00 IV_CHANGE: V: Current IV 0.1656 - Previous IV 0.1620 = Increase 0.0036
+2023-03-06 13:00:00 IV_CHANGE: BA: Current IV 0.2894 - Previous IV 0.2831 = Increase 0.0062
+2023-03-06 13:00:00 IV_CHANGE: SNOW: Current IV 0.4847 - Previous IV 0.4815 = Increase 0.0031
+2023-03-06 13:00:00 IV_CHANGE: FSLR: Current IV 0.4381 - Previous IV 0.4347 = Increase 0.0034
+2023-03-06 13:00:00 IV_CHANGE: MRVL: Current IV 0.4497 - Previous IV 0.4185 = Increase 0.0312
+2023-03-06 13:00:00 IV_CHANGE: ZS: Current IV 0.4569 - Previous IV 0.4492 = Increase 0.0076
+2023-03-06 13:00:00 SCREENING: Found 21 stocks with an IV increase since last screening.
+2023-03-06 13:00:00 SCREENING: 13 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2023-03-06 13:00:00 Ranking candidates by IV increase.
+2023-03-06 14:00:00 VIX=18.48 | Regime: BULL
+2023-03-06 14:00:00 SCREENING: Found 42 stocks with a ready IV indicator.
+2023-03-06 14:00:00 IV_CHANGE: AMD: Current IV 0.4088 - Previous IV 0.4080 = Increase 0.0008
+2023-03-06 14:00:00 IV_CHANGE: AMZN: Current IV 0.3415 - Previous IV 0.3365 = Increase 0.0050
+2023-03-06 14:00:00 IV_CHANGE: EFA: Current IV 0.1509 - Previous IV 0.1445 = Increase 0.0064
+2023-03-06 14:00:00 IV_CHANGE: GOOG: Current IV 0.2816 - Previous IV 0.2803 = Increase 0.0013
+2023-03-06 14:00:00 IV_CHANGE: GOOGL: Current IV 0.2830 - Previous IV 0.2807 = Increase 0.0024
+2023-03-06 14:00:00 IV_CHANGE: HYG: Current IV 0.1064 - Previous IV 0.1003 = Increase 0.0061
+2023-03-06 14:00:00 IV_CHANGE: JPM: Current IV 0.1801 - Previous IV 0.1776 = Increase 0.0025
+2023-03-06 14:00:00 IV_CHANGE: LQD: Current IV 0.1247 - Previous IV 0.1239 = Increase 0.0008
+2023-03-06 14:00:00 IV_CHANGE: MSFT: Current IV 0.2578 - Previous IV 0.2578 = Increase 0.0001
+2023-03-06 14:00:00 IV_CHANGE: NFLX: Current IV 0.3429 - Previous IV 0.3415 = Increase 0.0014
+2023-03-06 14:00:00 IV_CHANGE: NVDA: Current IV 0.4332 - Previous IV 0.4311 = Increase 0.0021
+2023-03-06 14:00:00 IV_CHANGE: QQQ: Current IV 0.2476 - Previous IV 0.2452 = Increase 0.0024
+2023-03-06 14:00:00 IV_CHANGE: SQQQ: Current IV 0.6785 - Previous IV 0.6708 = Increase 0.0077
+2023-03-06 14:00:00 IV_CHANGE: TLT: Current IV 0.1968 - Previous IV 0.1962 = Increase 0.0006
+2023-03-06 14:00:00 IV_CHANGE: XLE: Current IV 0.2286 - Previous IV 0.2285 = Increase 0.0000
+2023-03-06 14:00:00 IV_CHANGE: XLV: Current IV 0.1288 - Previous IV 0.1232 = Increase 0.0056
+2023-03-06 14:00:00 IV_CHANGE: CRM: Current IV 0.3021 - Previous IV 0.2969 = Increase 0.0053
+2023-03-06 14:00:00 IV_CHANGE: V: Current IV 0.1701 - Previous IV 0.1656 = Increase 0.0045
+2023-03-06 14:00:00 IV_CHANGE: SNOW: Current IV 0.4888 - Previous IV 0.4847 = Increase 0.0041
+2023-03-06 14:00:00 IV_CHANGE: AI: Current IV 1.1251 - Previous IV 1.1155 = Increase 0.0096
+2023-03-06 14:00:00 SCREENING: Found 20 stocks with an IV increase since last screening.
+2023-03-06 14:00:00 SCREENING: 10 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2023-03-06 14:00:00 Ranking candidates by IV increase.
+2023-03-06 15:00:00 VIX=18.48 | Regime: BULL
+2023-03-06 15:00:00 SCREENING: Found 42 stocks with a ready IV indicator.
+2023-03-06 15:00:00 IV_CHANGE: AMZN: Current IV 0.3463 - Previous IV 0.3415 = Increase 0.0048
+2023-03-06 15:00:00 IV_CHANGE: GOOG: Current IV 0.2823 - Previous IV 0.2816 = Increase 0.0007
+2023-03-06 15:00:00 IV_CHANGE: IWM: Current IV 0.2001 - Previous IV 0.1994 = Increase 0.0007
+2023-03-06 15:00:00 IV_CHANGE: JPM: Current IV 0.1813 - Previous IV 0.1801 = Increase 0.0012
+2023-03-06 15:00:00 IV_CHANGE: META: Current IV 0.3637 - Previous IV 0.3635 = Increase 0.0002
+2023-03-06 15:00:00 IV_CHANGE: TLT: Current IV 0.1977 - Previous IV 0.1968 = Increase 0.0009
+2023-03-06 15:00:00 IV_CHANGE: TQQQ: Current IV 0.6659 - Previous IV 0.6607 = Increase 0.0053
+2023-03-06 15:00:00 IV_CHANGE: FSLR: Current IV 0.4219 - Previous IV 0.4213 = Increase 0.0006
+2023-03-06 15:00:00 IV_CHANGE: MRVL: Current IV 0.4481 - Previous IV 0.4369 = Increase 0.0112
+2023-03-06 15:00:00 SCREENING: Found 9 stocks with an IV increase since last screening.
+2023-03-06 15:00:00 SCREENING: 2 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2023-03-06 15:00:00 Ranking candidates by IV increase.
+2023-03-06 16:00:00 VIX=18.48 | Regime: BULL
+2023-03-06 16:00:00 SCREENING: Found 42 stocks with a ready IV indicator.
+2023-03-06 16:00:00 IV_CHANGE: AAPL: Current IV 0.2349 - Previous IV 0.2337 = Increase 0.0013
+2023-03-06 16:00:00 IV_CHANGE: EFA: Current IV 0.1525 - Previous IV 0.1505 = Increase 0.0020
+2023-03-06 16:00:00 IV_CHANGE: GOOG: Current IV 0.2896 - Previous IV 0.2823 = Increase 0.0073
+2023-03-06 16:00:00 IV_CHANGE: GOOGL: Current IV 0.2871 - Previous IV 0.2825 = Increase 0.0046
+2023-03-06 16:00:00 IV_CHANGE: HYG: Current IV 0.1066 - Previous IV 0.1036 = Increase 0.0030
+2023-03-06 16:00:00 IV_CHANGE: LQD: Current IV 0.1225 - Previous IV 0.1225 = Increase 0.0000
+2023-03-06 16:00:00 IV_CHANGE: NFLX: Current IV 0.3466 - Previous IV 0.3391 = Increase 0.0076
+2023-03-06 16:00:00 IV_CHANGE: NVDA: Current IV 0.4334 - Previous IV 0.4329 = Increase 0.0004
+2023-03-06 16:00:00 IV_CHANGE: TLT: Current IV 0.1989 - Previous IV 0.1977 = Increase 0.0012
+2023-03-06 16:00:00 IV_CHANGE: XLE: Current IV 0.2258 - Previous IV 0.2257 = Increase 0.0001
+2023-03-06 16:00:00 IV_CHANGE: CRM: Current IV 0.3018 - Previous IV 0.2980 = Increase 0.0037
+2023-03-06 16:00:00 IV_CHANGE: FSLR: Current IV 0.4242 - Previous IV 0.4219 = Increase 0.0023
+2023-03-06 16:00:00 SCREENING: Found 12 stocks with an IV increase since last screening.
+2023-03-06 16:00:00 SCREENING: 4 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2023-03-06 16:00:00 Ranking candidates by IV increase.
+2023-03-06 16:15:00 VIX=18.61 | Regime: BULL
+2023-03-06 16:15:00 SCREENING: Found 42 stocks with a ready IV indicator.
+2023-03-06 16:15:00 SCREENING: Found 0 stocks with an IV increase since last screening.
+2023-03-06 16:15:00 SCREENING: 0 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2023-03-06 16:15:00 No candidates passed all filters. Skipping this screening cycle.
+2023-03-07 00:00:00 UNIVERSE: Passed price filter: 8289
+2023-03-07 00:00:00 UNIVERSE: Passed volume filter (>500k): 3170
+2023-03-07 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-03-07 00:00:00 UNIVERSE: Passed price filter: 8252
+2023-03-07 00:00:00 UNIVERSE: Passed volume filter (>500k): 3205
+2023-03-07 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-03-07 00:00:00 UNIVERSE: Passed price filter: 8260
+2023-03-07 00:00:00 UNIVERSE: Passed volume filter (>500k): 3057
+2023-03-07 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-03-07 00:00:00 UNIVERSE: Passed price filter: 8224
+2023-03-07 00:00:00 UNIVERSE: Passed volume filter (>500k): 3144
+2023-03-07 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-03-07 00:00:00 UNIVERSE: Passed price filter: 8191
+2023-03-07 00:00:00 UNIVERSE: Passed volume filter (>500k): 3071
+2023-03-07 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-03-07 00:00:00 UNIVERSE: Passed price filter: 8193
+2023-03-07 00:00:00 UNIVERSE: Passed volume filter (>500k): 3307
+2023-03-07 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-03-13 10:00:00 VIX=24.80 | Regime: BEAR
+2023-03-13 10:00:00 Market regime is BEAR. Pausing new trades.
+2023-03-13 11:00:00 VIX=24.80 | Regime: BEAR
+2023-03-13 11:00:00 Market regime is BEAR. Pausing new trades.
+2023-03-13 12:00:00 VIX=24.80 | Regime: BEAR
+2023-03-13 12:00:00 Market regime is BEAR. Pausing new trades.
+2023-03-13 13:00:00 VIX=24.80 | Regime: BEAR
+2023-03-13 13:00:00 Market regime is BEAR. Pausing new trades.
+2023-03-13 14:00:00 VIX=24.80 | Regime: BEAR
+2023-03-13 14:00:00 Market regime is BEAR. Pausing new trades.
+2023-03-13 15:00:00 VIX=24.80 | Regime: BEAR
+2023-03-13 15:00:00 Market regime is BEAR. Pausing new trades.
+2023-03-13 16:00:00 VIX=24.80 | Regime: BEAR
+2023-03-13 16:00:00 Market regime is BEAR. Pausing new trades.
+2023-03-13 16:15:00 VIX=26.87 | Regime: BEAR
+2023-03-13 16:15:00 Market regime is BEAR. Pausing new trades.
+2023-03-15 00:00:00 UNIVERSE: Passed price filter: 8193
+2023-03-15 00:00:00 UNIVERSE: Passed volume filter (>500k): 2926
+2023-03-15 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-03-15 00:00:00 UNIVERSE: Passed price filter: 8222
+2023-03-15 00:00:00 UNIVERSE: Passed volume filter (>500k): 2894
+2023-03-15 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-03-15 00:00:00 UNIVERSE: Passed price filter: 8185
+2023-03-15 00:00:00 UNIVERSE: Passed volume filter (>500k): 2878
+2023-03-15 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-03-15 00:00:00 UNIVERSE: Passed price filter: 8195
+2023-03-15 00:00:00 UNIVERSE: Passed volume filter (>500k): 2894
+2023-03-15 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-03-15 00:00:00 UNIVERSE: Passed price filter: 8181
+2023-03-15 00:00:00 UNIVERSE: Passed volume filter (>500k): 2835
+2023-03-15 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-03-15 00:00:00 UNIVERSE: Passed price filter: 8221
+2023-03-15 10:00:00 UNIVERSE: Passed volume filter (>500k): 2752
+2023-03-15 10:00:00 UNIVERSE: Final selection: 30 stocks
+2023-03-20 10:00:00 VIX=25.50 | Regime: BEAR
+2023-03-20 10:00:00 Market regime is BEAR. Pausing new trades.
+2023-03-20 11:00:00 VIX=25.50 | Regime: BEAR
+2023-03-20 11:00:00 Market regime is BEAR. Pausing new trades.
+2023-03-20 12:00:00 VIX=25.50 | Regime: BEAR
+2023-03-20 12:00:00 Market regime is BEAR. Pausing new trades.
+2023-03-20 13:00:00 VIX=25.50 | Regime: BEAR
+2023-03-20 13:00:00 Market regime is BEAR. Pausing new trades.
+2023-03-20 14:00:00 VIX=25.50 | Regime: BEAR
+2023-03-20 14:00:00 Market regime is BEAR. Pausing new trades.
+2023-03-20 15:00:00 VIX=25.50 | Regime: BEAR
+2023-03-20 15:00:00 Market regime is BEAR. Pausing new trades.
+2023-03-20 16:00:00 VIX=25.50 | Regime: BEAR
+2023-03-20 16:00:00 Market regime is BEAR. Pausing new trades.
+2023-03-20 16:15:00 VIX=24.15 | Regime: BEAR
+2023-03-20 16:15:00 Market regime is BEAR. Pausing new trades.
+2023-03-23 00:00:00 UNIVERSE: Passed price filter: 8186
+2023-03-23 00:00:00 UNIVERSE: Passed volume filter (>500k): 2695
+2023-03-23 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-03-23 00:00:00 UNIVERSE: Passed price filter: 8222
+2023-03-23 00:00:00 UNIVERSE: Passed volume filter (>500k): 2775
+2023-03-23 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-03-23 00:00:00 UNIVERSE: Passed price filter: 8207
+2023-03-23 00:00:00 UNIVERSE: Passed volume filter (>500k): 2715
+2023-03-23 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-03-23 00:00:00 UNIVERSE: Passed price filter: 8221
+2023-03-23 00:00:00 UNIVERSE: Passed volume filter (>500k): 3020
+2023-03-23 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-03-23 00:00:00 UNIVERSE: Passed price filter: 8275
+2023-03-23 00:00:00 UNIVERSE: Passed volume filter (>500k): 2955
+2023-03-23 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-03-23 00:00:00 UNIVERSE: Passed price filter: 8238
+2023-03-23 00:00:00 UNIVERSE: Passed volume filter (>500k): 2856
+2023-03-23 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-03-27 10:00:00 VIX=21.73 | Regime: BEAR
+2023-03-27 10:00:00 Market regime is BEAR. Pausing new trades.
+2023-03-27 11:00:00 VIX=21.73 | Regime: BEAR
+2023-03-27 11:00:00 Market regime is BEAR. Pausing new trades.
+2023-03-27 12:00:00 VIX=21.73 | Regime: BEAR
+2023-03-27 12:00:00 Market regime is BEAR. Pausing new trades.
+2023-03-27 13:00:00 VIX=21.73 | Regime: BEAR
+2023-03-27 13:00:00 Market regime is BEAR. Pausing new trades.
+2023-03-27 14:00:00 VIX=21.73 | Regime: BEAR
+2023-03-27 14:00:00 Market regime is BEAR. Pausing new trades.
+2023-03-27 15:00:00 VIX=21.73 | Regime: BEAR
+2023-03-27 15:00:00 Market regime is BEAR. Pausing new trades.
+2023-03-27 16:00:00 VIX=21.73 | Regime: BEAR
+2023-03-27 16:00:00 Market regime is BEAR. Pausing new trades.
+2023-03-27 16:15:00 VIX=20.60 | Regime: BEAR
+2023-03-27 16:15:00 Market regime is BEAR. Pausing new trades.
+2023-03-31 00:00:00 UNIVERSE: Passed price filter: 8204
+2023-03-31 00:00:00 UNIVERSE: Passed volume filter (>500k): 2785
+2023-03-31 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-03-31 00:00:00 UNIVERSE: Passed price filter: 8225
+2023-03-31 00:00:00 UNIVERSE: Passed volume filter (>500k): 2672
+2023-03-31 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-03-31 00:00:00 UNIVERSE: Passed price filter: 8197
+2023-03-31 00:00:00 UNIVERSE: Passed volume filter (>500k): 2790
+2023-03-31 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-03-31 00:00:00 UNIVERSE: Passed price filter: 8240
+2023-03-31 00:00:00 UNIVERSE: Passed volume filter (>500k): 2769
+2023-03-31 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-03-31 00:00:00 UNIVERSE: Passed price filter: 8211
+2023-03-31 00:00:00 UNIVERSE: Passed volume filter (>500k): 2689
+2023-03-31 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-03-31 00:00:00 UNIVERSE: Passed price filter: 8237
+2023-03-31 00:00:00 UNIVERSE: Passed volume filter (>500k): 2764
+2023-03-31 00:00:00 UNIVERSE: Final selection: 30 stocks
+2023-04-03 10:00:00 VIX=18.69 | Regime: BULL
+2023-04-03 10:00:00 SCREENING: Found 39 stocks with a ready IV indicator.
+2023-04-03 10:00:00 IV_CHANGE: AMD: Current IV 0.4232 - Previous IV 0.4067 = Increase 0.0165
+2023-04-03 10:00:00 IV_CHANGE: BABA: Current IV 0.4282 - Previous IV 0.4076 = Increase 0.0206
+2023-04-03 10:00:00 IV_CHANGE: HD: Current IV 0.1990 - Previous IV 0.1588 = Increase 0.0402
+2023-04-03 10:00:00 IV_CHANGE: IWM: Current IV 0.2088 - Previous IV 0.1993 = Increase 0.0095
+2023-04-03 10:00:00 IV_CHANGE: JPM: Current IV 0.2286 - Previous IV 0.1774 = Increase 0.0511
+2023-04-03 10:00:00 IV_CHANGE: NFLX: Current IV 0.5520 - Previous IV 0.3466 = Increase 0.2053
+2023-04-03 10:00:00 IV_CHANGE: TSLA: Current IV 0.5984 - Previous IV 0.5381 = Increase 0.0603
+2023-04-03 10:00:00 IV_CHANGE: XLF: Current IV 0.2136 - Previous IV 0.1468 = Increase 0.0668
+2023-04-03 10:00:00 IV_CHANGE: XOM: Current IV 0.2979 - Previous IV 0.2470 = Increase 0.0508
+2023-04-03 10:00:00 IV_CHANGE: FXI: Current IV 0.3091 - Previous IV 0.3079 = Increase 0.0012
+2023-04-03 10:00:00 IV_CHANGE: V: Current IV 0.1900 - Previous IV 0.1647 = Increase 0.0253
+2023-04-03 10:00:00 IV_CHANGE: GLD: Current IV 0.1506 - Previous IV 0.1290 = Increase 0.0215
+2023-04-03 10:00:00 IV_CHANGE: AI: Current IV 1.1400 - Previous IV 0.9915 = Increase 0.1485
+2023-04-03 10:00:00 SCREENING: Found 13 stocks with an IV increase since last screening.
+2023-04-03 10:00:00 SCREENING: 9 stocks passed sentiment filter (Call/Put Ratio >= 1.10).
+2023-04-03 10:00:00 Ranking candidates by IV increase.
+2023-04-03 10:00:00 [BUY] AI: Current allocation 150.26%. Adding new 2% position.
+2023-04-03 10:00:00 [BUY] V: Current allocation 152.26%. Adding new 2% position.
+2023-04-03 10:00:00 [BUY] BABA: Current allocation 154.17%. Adding new 2% position.
+2023-04-03 10:00:00 [BUY] AMD: Current allocation 156.13%. Adding new 2% position.
+2023-04-03 11:00:00 VIX=18.69 | Regime: BULL
+2023-04-03 11:00:00 SCREENING: Found 39 stocks with a ready IV indicator.
+2023-04-03 11:00:00 IV_CHANGE: AMZN: Current IV 0.3144 - Previous IV 0.3126 = Increase 0.0018
+2023-04-03 11:00:00 IV_CHANGE: BAC: Current IV 0.3568 - Previous IV 0.3513 = Increase 0.0056
+You currently have a maximum of 100kb of log data per backtest, and 100kb total max per day. Have you tried step-by-step debugging? See more at https://qnt.co/debugging or upgrade your organization type for more logs at https://www.quantconnect.com/pricing
