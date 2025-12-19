@@ -4,14 +4,23 @@ I wanted to automate my manual options and stock trading strategy that I've been
 
 ## Key Metrics
 **Entry Signal**: ATM calls with 7-39 DTE, IV increase > 1.5%
+
 **Filters**: 0.5M+ daily volume, Call/Put ratio ≥ 1.10 (sentiment filter)
+
 **Backtest Period**: Dec 2022 to Dec 2025
+
 **Trades**: 50+ positions initiated
+
 **Allocation Growth**: From 99% → 160% across testing period
+
 **Total Return**: +88.5% (from $100K to $193K initial assessment, ending at $186.6K)
+
 **Annualized Return**: ~28% (highly volatile)
+
 **Maximum Drawdown**: -10.4% (multiple occurrences: Dec 2022, Mar 2025)
+
 **Best Monthly Return**: +12.48% (Nov 2023)
+
 **Worst Monthly Return**: -10.23% (Mar 2025)
 
 ## Technical Implementation
