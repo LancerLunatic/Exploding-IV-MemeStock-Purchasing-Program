@@ -1,17 +1,18 @@
-I wanted to automate my manual options and stock trading strategy that I've been using for a couple years so I can free up my time and ensure that something will always follow my trading rules because I have trouble following my own guidelines. 
-
 # High IV Momentum Trading Strategy
 
-## Overview
-Automated options trading algorithm identifying IV expansion opportunities 
-across 30+ liquid equities using LEAN engine.
+I wanted to automate my manual options and stock trading strategy that I've been using for a couple years so I can free up my time and ensure that something will always follow my trading rules because I have trouble following my own guidelines. 
 
 ## Key Metrics
-- **Entry Signal**: ATM calls with 7-39 DTE, IV increase > 1.5%
-- **Filters**: 0.5M+ daily volume, Call/Put ratio ≥ 1.10 (sentiment filter)
-- **Backtest Period**: Nov 3-17, 2025
-- **Trades**: 50+ positions initiated
-- **Allocation Growth**: From 99% → 160% across testing period
+**Entry Signal**: ATM calls with 7-39 DTE, IV increase > 1.5%
+**Filters**: 0.5M+ daily volume, Call/Put ratio ≥ 1.10 (sentiment filter)
+**Backtest Period**: Dec 2022 to Dec 2025
+**Trades**: 50+ positions initiated
+**Allocation Growth**: From 99% → 160% across testing period
+**Total Return**: +88.5% (from $100K to $193K initial assessment, ending at $186.6K)
+**Annualized Return**: ~28% (highly volatile)
+**Maximum Drawdown**: -10.4% (multiple occurrences: Dec 2022, Mar 2025)
+**Best Monthly Return**: +12.48% (Nov 2023)
+**Worst Monthly Return**: -10.23% (Mar 2025)
 
 ## Technical Implementation
 - **Language**: Python | **Framework**: QuantConnect LEAN
@@ -19,71 +20,84 @@ across 30+ liquid equities using LEAN engine.
 - **Risk Management**: Position sizing, regime detection (VIX-based)
 - **Schedule**: Monday IV screening + daily momentum detection
 
-## What Made This Work
-[DESCRIBE THE DEBUGGING PROCESS - THIS IS GOLD]
-
-### The Problem
-Initial IV caching returned 0 stocks. Logs showed chains loaded but cache empty.
-
-### The Solution
-Identified symbol type mismatch in complex filtering. Hybrid approach:
-- Simplified loop structure (chain.Underlying.Symbol)
-- Maintained complex DTE/volume filtering logic
-- Added exception handling (try-catch)
-
-[Link to: DEBUGGING_JOURNEY.md for full analysis]
-
-## Results
-- ✅ 18 stocks passed sentiment filter (60% conversion)
-- ✅ 50+ total buys executed across 1-hour intervals
-- ✅ IV momentum accurately tracked across regime changes
-- ✅ Production-ready for live trading
-
-## Future Enhancements
+## 2026 Future Enhancements
 - [ ] Put/call spread implementation
 - [ ] Greeks-based hedge sizing
 - [ ] ML classifier for false signal reduction
-- [ ] Multi-leg option strategies
-
----
-**Status**: ✅ Live tested December 2025 | Ready for production
-
-Create a repo: "high-iv-momentum-strategy"
-Structure:
-├── README.md (YOUR STORY)
-├── strategy/
-│   ├── CacheImpliedVolatility.py
-│   ├── WeeklyScreeningAndTrading.py
-│   └── config.py
-├── backtests/
-│   ├── Focused-Red-Orange-Monkey_logs.json
-│   └── backtest_performance_analysis.md
-├── docs/
-│   ├── STRATEGY_METHODOLOGY.md
-│   ├── IV_FILTERING_LOGIC.md
-│   └── DEBUGGING_JOURNEY.md
-└── README_RESULTS.md
 
 
-about me :(linkedin)
+## Overview
+1. **Universe Selection (Daily)**  
+Every day, the algorithm filters the entire US Equity market to select a "Universe" of 30 stocks to monitor.
+
+- **Price Filter:** Stocks must be priced between $2.50 and $350.00.  
+- **Volume Filter:** Stocks must have a daily Dollar Volume greater than $6,700,000.  
+- **Ranking:** It sorts the passing stocks by Dollar Volume and keeps the top 30.
+
+2. **Data Collection & IV Caching (Real-Time)**  
+Once the universe is selected, the algorithm subscribes to the Option Chains for these 30 stocks.
+
+- **Option Filter:** It looks for "Front Month" contracts within +/- 10 strikes of the current price.  
+- **IV Extraction:** On every data tick, it scans the option chains to find a specific contract:  
+  - **Type:** Call Option.  
+  - **Liquidity:** Must have Volume or Open Interest > 0.  
+  - **Expiration:** Between 7 and 39 days out (with a fallback logic to find contracts near 23 days if none exist).  
+  - **Strike:** At-The-Money (closest to current stock price).  
+- **Caching:** It extracts the Implied Volatility (IV) from this specific contract and saves it to `self.iv_cache`.
+
+3. **Scheduled Screening (Weekly)**  
+The actual decision to trade happens once a week, scheduled for Mondays at 10:00 AM.
+
+A. **Market Regime Check**  
+Before looking at specific stocks, it checks the overall market health using the VIX (Volatility Index).
+
+- If VIX > 20.50, the market is deemed "BEAR". The algorithm halts and does not open new trades.  
+- If VIX ≤ 20.50, it proceeds as a "BULL" market.
+
+B. **Candidate Filtering**  
+It takes the 30 stocks from the universe and filters them based on Volatility behavior:
+
+- **Initial Run:** It considers all stocks in the cache.  
+- **Subsequent Runs:** It compares the current IV to the previous week's IV. It only keeps stocks where the IV has increased.
+
+C. **Sentiment Filter (Call/Put Ratio)**  
+For the remaining candidates, it calculates a sentiment score using the option chain:
+
+- It sums the total Volume of Calls and Puts.  
+- It calculates the Call/Put Ratio.  
+- **Condition:** The stock is only selected if the Ratio ≥ 1.10 (indicating bullish sentiment).
+
+D. **Ranking**  
+The passing stocks are ranked by their IV metric (highest absolute IV on the first run, or highest IV increase on subsequent runs).  
+The algorithm selects the Top 15 stocks from this ranked list.
+
+4. **Execution**  
+The algorithm iterates through the Top 15 selected stocks.
+
+- **Asset Class:** Despite “LEAPs” (options) being mentioned in the strategy name, the code executes `self.SetHoldings(symbol, ...)`, which buys the underlying stock (Equity).  
+- **Sizing:** It allocates 2% of the portfolio to each position.  
+- **Constraints:** It stops buying if the total equity allocation exceeds the maximum portfolio limit (set to 1.6, or 160% leverage, though individual position sizing limits this naturally).
+
+5. **Position Management (Real-Time)**  
+Once a trade is open, it is managed continuously in `OnData`:
+
+- **Stop Loss:** Liquidates if the position loses 15% (-0.15).  
+- **Take Profit:** Liquidates if the position gains 33% (0.33).  
+- **Daily Loss Limit:** If the entire portfolio drops by 5% in a single day, it liquidates all positions and halts trading for the day.
+
+**Status**: ✅ Live [Paper] trading December 2025 | Almost ready for production | Major Issue : IV data not received by definition for trading
+
+About me :([linkedin](https://www.linkedin.com/in/marylandman/))
 0 join MLH Finance track || HackerRank competitions
 
 Designed and deployed High IV Momentum strategy trading 30+ equities.
 
 Technical Stack:
-- Real-time IV extraction from option chains
+- Full cycle trade developer
+- Live Equity/Index/Future option chains
 - DTE/volume filtering + sentiment analysis
 - VIX regime detection + position sizing
 - QuantConnect LEAN engine integration
 
-Key Achievement: Solved production debugging issue (0 → 50+ trades/day)
-by identifying symbol type mismatch, implementing hybrid architecture.
-
-Results:
-✅ 50+ positions across week (18/30 stocks passed filter)
-✅ Complex filtering + simple architecture = production stability
-✅ Live trading ready (tested Dec 2025)
-
-Skills: Python, Pandas, Options Pricing, LEAN, Backtesting, Debugging
-Currently: Seeking Quant Developer or Algorithmic Trader role in Miami/NYC
+Currently: Seeking Quant Developer or Algorithmic Trader role with hybrid Office work style 
 
