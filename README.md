@@ -2,7 +2,7 @@
 I created this to showcase my capabilities as a full cycle quantitative developer and trader. I am open to quant trader/quant dev/quant analyst roles with hybrid in-office style in Washington, DC, NYC and surrounding areas. I have been trading manually all asset classes starting with stocks in 2011.
 I like they concept of algorithmic trading because I know my trade plan/rules will always be followed where as a human can deviate due to ego.
 
-About me :([linkedin](https://www.linkedin.com/in/marylandman/))
+About me vlinkedin](https://www.linkedin.com/in/marylandman/) vquantconnec](https://www.quantconnect.com/u/apollos_hill)
 
 Technical Stack:
 - Full cycle trade developer
