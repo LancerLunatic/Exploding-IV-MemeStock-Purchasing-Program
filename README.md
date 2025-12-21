@@ -13,5 +13,7 @@ Technical Stack:
 - VIX regime detection + position sizing
 - QuantConnect LEAN engine integration
 
+Folder Table of Contents
+- pythoncode folder contains different trading scripts/algorithms I made.
 - docs folder contains my daily journal of tasks and my collection of trading strategies i've used over the years.
 - backtest folder contains algorithm backtest performance metrics and feedback
